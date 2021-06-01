@@ -23,11 +23,11 @@ Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 
 4. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
-	– **Anfragetitel:** ‎Artikel beschädigt geliefert – Ihre Initialen
+	- **Anfragetitel:** ‎Artikel beschädigt geliefert – Ihre Initialen
 
-	– **Kunde:** Alpine Ski House (Beispiel)
+	- **Kunde:** Alpine Ski House (Beispiel)
 
-	– **Ursprung:** Telefon
+	- **Ursprung:** Telefon
 
 5. Wählen Sie die Schaltfläche **Speichern** aus, um den Datensatz zu speichern, und lassen Sie ihn geöffnet. 
 

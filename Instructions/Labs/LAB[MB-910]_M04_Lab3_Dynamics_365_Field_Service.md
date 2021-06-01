@@ -77,11 +77,11 @@ Vor Kurzem hat der Kunde „Active Transport, Inc.“ den Support wegen eines Pr
 
 4. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
-	– **Anfragetitel:** Kamera funktioniert nicht
+	- **Anfragetitel:** Kamera funktioniert nicht
 
-	– **Kunde:** Active Transport Inc.
+	- **Kunde:** Active Transport Inc.
 
-	– **Ursprung:** Telefon
+	- **Ursprung:** Telefon
 
 5. Wählen Sie die Registerkarte **Außendienst** aus.
 
@@ -103,13 +103,13 @@ Wir werden später zu Ihrem erstellten Anfragedatensatz zurückkehren. Zunächst
 
 3. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	– **Dienstkonto:** Bremsen und Zahnräder 
+	- **Dienstkonto:** Bremsen und Zahnräder 
 
-	– **Preisliste:** Standardpreisliste
+	- **Preisliste:** Standardpreisliste
 
-	– **Primärer Vorfalltyp:** Lüfter ausgefallen
+	- **Primärer Vorfalltyp:** Lüfter ausgefallen
 
-	– **Steuerpflichtig:** Nein
+	- **Steuerpflichtig:** Nein
 
 4. Notieren Sie sich die Arbeitsauftragsnummer, um später überprüfen zu können, ob Sie den richtigen Arbeitsauftrag bearbeiten. 
 

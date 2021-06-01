@@ -18,17 +18,17 @@ Mit den Audience Insights-Funktionen in Dynamics 365 Customer Insights können O
 
 2. Verfügbare Informationen in Customer Insights
 
-	– Nachdem Sie Ihre Daten zu einem einzigen Kundenprofil vereinheitlicht haben, erhalten Sie eine komplette und umfassende Ansicht Ihrer Kunden. 
+	- Nachdem Sie Ihre Daten zu einem einzigen Kundenprofil vereinheitlicht haben, erhalten Sie eine komplette und umfassende Ansicht Ihrer Kunden. 
 
-	– Dazu gehört: 
+	- Dazu gehört: 
 
-		– Kundenprofile mit einheitlichen Details
+		- Kundenprofile mit einheitlichen Details
 
-		– Aktivitäts-Zeitachse über alle Datensilos hinweg
+		- Aktivitäts-Zeitachse über alle Datensilos hinweg
 
-		– Wichtige Measures und Kennzahlen wie Gesamtausgaben und mehr
+		- Wichtige Measures und Kennzahlen wie Gesamtausgaben und mehr
 
-		– Markenanreicherungsdaten wie etwa Markenaffinitäten und Interessen 
+		- Markenanreicherungsdaten wie etwa Markenaffinitäten und Interessen 
 
  
 
@@ -36,35 +36,35 @@ Mit den Audience Insights-Funktionen in Dynamics 365 Customer Insights können O
 
 	– Kundendaten können mühelos in der Anwendung angezeigt werden.
 
-		– Navigieren Sie zu „Kunden“.
+		- Navigieren Sie zu „Kunden“.
 
-		– Filtern Sie die Kundenliste.
+		- Filtern Sie die Kundenliste.
 
-		– Suchen Sie nach einem Kunden.
+		- Suchen Sie nach einem Kunden.
 
-		– Öffnen Sie einen Kundenprofildatensatz.
+		- Öffnen Sie einen Kundenprofildatensatz.
 
  
 
 - Besprechen Sie die Informationen auf der Kundenkarte:
 
-	– Führen Sie die Aktivitätszeitachse vor.
+	- Führen Sie die Aktivitätszeitachse vor.
 
-	– Erklären Sie die Kunden-Measures.
+	- Erklären Sie die Kunden-Measures.
 
-	– Erklären Sie die Markenaffinitäten.
+	- Erklären Sie die Markenaffinitäten.
 
  
 
 4. Nutzen Sie Informationen, um Kunden gezielt anzusprechen
 
-	– Erstellen Sie ein Segment.
+	- Erstellen Sie ein Segment.
 
-		– Wählen Sie Segmente -> Neu aus.
+		- Wählen Sie Segmente -> Neu aus.
 
-		– Erstellen Sie ein Segment anhand eines Kundenprofils.
+		- Erstellen Sie ein Segment anhand eines Kundenprofils.
 
-		– Erstellen Sie ein Segment für Kunden in Kalifornien.
+		- Erstellen Sie ein Segment für Kunden in Kalifornien.
 
 - Exportieren Sie die Daten zur Verwendung in Dynamics 365 Marketing.
 

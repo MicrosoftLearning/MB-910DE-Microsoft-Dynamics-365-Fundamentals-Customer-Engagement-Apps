@@ -29,17 +29,17 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Cu
 
 4. Vervollständigen Sie den Firmendatensatz wie folgt:
 
-	– **Firmenname:** Contoso Corporate – Ihre Initialen
+	- **Firmenname:** Contoso Corporate – Ihre Initialen
 
-	– **Telefonnummer:** 888-555-1234
+	- **Telefonnummer:** 888-555-1234
 
-	– **Adresse 1: Straße 1:** 191 181st Ave N
+	- **Adresse 1: Straße 1:** 191 181st Ave N
 
-	– **Adresse 1: Ort:** Seattle
+	- **Adresse 1: Ort:** Seattle
 
-	– **Adresse 1: Bundesland/Kanton:** WA
+	- **Adresse 1: Bundesland/Kanton:** WA
 
-	– **Adresse 1: Postleitzahl:** 98101
+	- **Adresse 1: Postleitzahl:** 98101
 
 5. Wählen Sie oben auf der Befehlsleiste die Schaltfläche **Speichern und schließen** aus, um den Firmendatensatz zu speichern und zu schließen.
 
@@ -47,17 +47,17 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Cu
 
 7. Vervollständigen Sie den Firmendatensatz wie folgt:
 
-	– **Firmenname:** Contoso North America – Ihre Initialen
+	- **Firmenname:** Contoso North America – Ihre Initialen
 
-	– **Telefonnummer:** 888-555-4321
+	- **Telefonnummer:** 888-555-4321
 
-	– **Adresse 1: Straße 1**: 187 11th ST N
+	- **Adresse 1: Straße 1**: 187 11th ST N
 
-	– **Adresse 1: Ort:** Chicago
+	- **Adresse 1: Ort:** Chicago
 
-	– **Adresse 1: Bundesland/Kanton:** BY
+	- **Adresse 1: Bundesland/Kanton:** BY
 
-	– **Adresse 1: Postleitzahl:** 60176
+	- **Adresse 1: Postleitzahl:** 60176
 
 8. Wählen Sie das Feld **Übergeordnete Firma** neben der Firma **Contoso Corporate** aus, die Sie zuvor erstellt haben. 
 
@@ -69,13 +69,13 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Cu
 
 12. Vervollständigen Sie den Kontakt im Formular **Schnellerfassung für Kontakt** wie folgt
 
-	– **Vorname:** Jackson
+	- **Vorname:** Jackson
 
-	– **Nachname:** Anderson – Ihre Initialen
+	- **Nachname:** Anderson – Ihre Initialen
 
-	– **Position:** CEO
+	- **Position:** CEO
 
-	– **E-Mail:** Jackson@contososample.com
+	- **E-Mail:** Jackson@contososample.com
 
 13. Wählen Sie **Speichern und schließen** aus.
 
@@ -87,11 +87,11 @@ In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Cu
 
 17. Vervollständigen Sie den Termin wie folgt:
 
-	– **Betreff:** Besprechung mit Jackson
+	- **Betreff:** Besprechung mit Jackson
 
-	– **Startzeit:** Heute um 15:00 Uhr
+	- **Startzeit:** Heute um 15:00 Uhr
 
-	– **Endzeit:** Heute um 16:00 Uhr
+	- **Endzeit:** Heute um 16:00 Uhr
 
 18. Wählen Sie **Speichern und schließen** aus. 
 

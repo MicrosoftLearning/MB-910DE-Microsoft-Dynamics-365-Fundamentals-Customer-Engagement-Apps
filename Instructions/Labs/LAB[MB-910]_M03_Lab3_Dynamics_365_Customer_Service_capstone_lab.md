@@ -83,11 +83,11 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 8. Vervollständigen Sie den Artikel wie folgt:
 
-	– **Titel:** Sensor funktioniert nicht – Ihre Initialen
+	- **Titel:** Sensor funktioniert nicht – Ihre Initialen
 
-	– **Schlüsselwörter:** Sensor, beschädigt, funktioniert nicht
+	- **Schlüsselwörter:** Sensor, beschädigt, funktioniert nicht
 
-	– **Beschreibung:** Dient als Unterstützung, falls ein Sensor nicht funktioniert. 
+	- **Beschreibung:** Dient als Unterstützung, falls ein Sensor nicht funktioniert. 
 
 9. Geben Sie den folgenden Text im **Inhaltsdesigner** ein.   
 
@@ -184,15 +184,15 @@ Nachdem der Artikel genehmigt wurde, werden wir ihn veröffentlichen, um ihn fü
 
 6. Vergewissern sie sich, dass die folgenden Einstellungen ausgewählt sind:
 
-	– **Veröffentlichen:** Jetzt
+	- **Veröffentlichen:** Jetzt
 
-	– **Status „Veröffentlicht“:** Veröffentlicht
+	- **Status „Veröffentlicht“:** Veröffentlicht
 
-	– **Ablaufdatum:** Heute in einem Jahr um 00:00 Uhr
+	- **Ablaufdatum:** Heute in einem Jahr um 00:00 Uhr
 
-	– **Ablaufstatus:** Abgelaufen
+	- **Ablaufstatus:** Abgelaufen
 
-	– **Ablaufstatus:** Abgelaufen
+	- **Ablaufstatus:** Abgelaufen
 
 7. Klicken Sie auf die Schaltfläche **Veröffentlichen**, um den Artikel zu veröffentlichen.
 
@@ -232,13 +232,13 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 12. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
-	– **Anfragetitel:** Sensor funktioniert nicht – Ihre Initialen
+	- **Anfragetitel:** Sensor funktioniert nicht – Ihre Initialen
 
-	– **Kunde:** Piper Smith
+	- **Kunde:** Piper Smith
 
-	– **Ursprung:** Telefon
+	- **Ursprung:** Telefon
 
-	– **Beschreibung:** Piper hat gemeldet, dass einer der Sensoren, die sie erhalten hat, nicht ordnungsgemäß funktioniert. 
+	- **Beschreibung:** Piper hat gemeldet, dass einer der Sensoren, die sie erhalten hat, nicht ordnungsgemäß funktioniert. 
 
 13. Wählen Sie die Schaltfläche **Speichern** aus, um den Datensatz zu speichern, und lassen Sie ihn geöffnet. 
 
@@ -248,13 +248,13 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 16. Füllen Sie die Aktivität im Bildschirm **Schnellerfassung: Telefonanruf** wie folgt aus:
 
-	– **Betreff:** Piper zurückrufen
+	- **Betreff:** Piper zurückrufen
 
-	– **Richtung:** Ausgehend
+	- **Richtung:** Ausgehend
 
-	– **Telefonnummer:**  888 555-1762
+	- **Telefonnummer:**  888 555-1762
 
-	– **Dauer:** 15 Minuten
+	- **Dauer:** 15 Minuten
 
 17. Klicken Sie auf die Schaltfläche **Speichern und schließen**. 
 
@@ -270,11 +270,11 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 23. Füllen Sie die Aktivität im Bildschirm **Schnellerfassung: Telefonanruf** wie folgt aus:
 
-	– **Betreff:** Von Piper gemeldetes Problem recherchieren
+	- **Betreff:** Von Piper gemeldetes Problem recherchieren
 
-	– **Beschreibung:** Wissensdatenbank nutzen, um das von Piper gemeldete Problem zu recherchieren 
+	- **Beschreibung:** Wissensdatenbank nutzen, um das von Piper gemeldete Problem zu recherchieren 
 
-	– **Dauer:** 30 Minuten
+	- **Dauer:** 30 Minuten
 
 24. Klicken Sie auf die Schaltfläche **Speichern und schließen**. 
 
@@ -292,11 +292,11 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 Nachdem wir eine Lösung für das von der Kundin gemeldete Problem haben, können wir uns darauf vorbereiten, die Anfrage abzuschließen. Dazu werden wir zunächst alle offenen Aktivitäten schließen, die zur Anfrage zugeordnet sind. 
 
-1. Zeigen Sie in der Datensatz**zeitachse** auf die zuvor erstellte Aufgabe **Von Piper gemeldetes Problem recherchieren** **.** Wählen Sie das Häkchensymbol **Als erledigt markieren** aus, um die Aktivität abzuschließen. 
+1. Zeigen Sie in der Datensatz**zeitachse** auf die zuvor erstellte Aufgabe **Von Piper gemeldetes Problem recherchieren**. Wählen Sie das Häkchensymbol **Als erledigt markieren** aus, um die Aktivität abzuschließen. 
 
 2. Vergewissern Sie sich im Fenster **Aufgabe schließen**, dass der Status auf Abgeschlossen festgelegt ist, und wählen Sie die Schaltfläche **Schließen** aus. Der Status der Aufgabe sollte als **Geschlossen** angezeigt werden. 
 
-3. Zeigen Sie auf die zuvor erstellte Telefonanrufaktivität **Piper zurückrufen** **.** Wählen Sie das Häkchensymbol **Als erledigt markieren** aus, um die Aktivität abzuschließen. 
+3. Zeigen Sie auf die zuvor erstellte Telefonanrufaktivität **Piper zurückrufen**. Wählen Sie das Häkchensymbol **Als erledigt markieren** aus, um die Aktivität abzuschließen. 
 
 4. Vergewissern Sie sich im Fenster **Telefonanruf schließen**, dass der **Zustand** als **Abgeschlossen** und der **Status** als **Erledigt** angezeigt wird. Klicken Sie auf die Schaltfläche **Schließen**. Vergewissern sie sich, dass die Aktivität in der Zeitachse als geschlossen angezeigt wird 
 

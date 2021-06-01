@@ -23,15 +23,15 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 4. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	– **Dienstkonto:** Datum Corporation (Beispiel)
+	- **Dienstkonto:** Datum Corporation (Beispiel)
 
-	– **Arbeitsauftragstyp**: Service
+	- **Arbeitsauftragstyp**: Service
 
-	– **Preisliste:** Standardpreisliste
+	- **Preisliste:** Standardpreisliste
 
-	– **Steuerpflichtig:** Nein
+	- **Steuerpflichtig:** Nein
 
-	– **Primärer Vorfalltyp:** Gerät überhitzt
+	- **Primärer Vorfalltyp:** Gerät überhitzt
 
 5. Klicken Sie auf **Speichern**, um Ihre Änderungen zu speichern.
 
@@ -67,5 +67,5 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 21. Klicken Sie in der Zeitplanübersicht auf das Feld „Ressourcen suchen“ (über der Spalte „Ressourcenname“), geben Sie „Ryan“ ein, und suchen Sie den Arbeitsauftrag, für den Ryan heute eingeplant ist. 
 
-22. Klicken Sie mit der rechten Maustaste auf den Arbeitsauftrag. Wählen Sie im angezeigten Menü **Ersatzressource** und **Ersatz suchen** aus**.**
+22. Klicken Sie mit der rechten Maustaste auf den Arbeitsauftrag. Wählen Sie im angezeigten Menü **Ersatzressource** und **Ersatz suchen** aus.
 

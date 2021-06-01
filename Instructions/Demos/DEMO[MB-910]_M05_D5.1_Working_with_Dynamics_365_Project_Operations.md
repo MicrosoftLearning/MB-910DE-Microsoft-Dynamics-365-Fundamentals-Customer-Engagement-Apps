@@ -14,35 +14,35 @@ Microsoft Dynamics 365 Project Operations verbindet Vertriebs-, Ressourcen-, Pro
 
 2. Erklären Sie die unterschiedlichen Bereitstellungstypen.
 
-	– Lite
+	- Lite
 
-	– Vorrätige/nicht vorrätige Ressourcen 
+	- Vorrätige/nicht vorrätige Ressourcen 
 
-	– Vorrätige Ressourcen/Fertigungsaufträge
+	- Vorrätige Ressourcen/Fertigungsaufträge
 
 3. Je nach Bereitstellungstyp stellt Project Operations eine Vielzahl von Tools bereit, mit denen Sie alle Aspekte der Projekte Ihrer Organisation verwalten können, inklusive Vertrieb, Planung, Ressourcenverwaltung und Projektausführung. 
 
-	– Projektvertrieb
+	- Projektvertrieb
 
-		– Besprechen Sie den Verkaufsprozess für Projekte. 
+		- Besprechen Sie den Verkaufsprozess für Projekte. 
 
-		– Öffnen Sie einen Lead, und analysieren Sie die projektspezifischen Details. 
+		- Öffnen Sie einen Lead, und analysieren Sie die projektspezifischen Details. 
 
 - Projektmanagement
 
-	– Übersicht
+	- Übersicht
 
-	– Führen Sie die Benutzeroberfläche vor, und heben Sie bestimmte Bereiche hervor. 
+	- Führen Sie die Benutzeroberfläche vor, und heben Sie bestimmte Bereiche hervor. 
 
-	– Öffnen Sie Projekte in unterschiedlichen Phasen.
+	- Öffnen Sie Projekte in unterschiedlichen Phasen.
 
 - Ressourcenverwaltung
 
-	– Erläutern Sie wichtige Konzepte.
+	- Erläutern Sie wichtige Konzepte.
 
-	– Behandeln Sie einige Ressourcenberichte.
+	- Behandeln Sie einige Ressourcenberichte.
 
 - Spesen- und Zeiterfassung
 
-	– Besprechen Sie die Spesenverwaltung. 
+	- Besprechen Sie die Spesenverwaltung. 
 

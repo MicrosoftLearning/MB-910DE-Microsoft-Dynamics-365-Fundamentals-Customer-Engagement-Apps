@@ -22,7 +22,7 @@ In dieser Übung erfahren Sie, wie einfach Sie die verschiedenen Dynamics 365-An
 
 In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startbildschirm aus auf die verschiedenen Dynamics 365 Customer Engagement-Anwendungen zugreifen. 
 
-1. Navigieren Sie in einem Webbrowser zu [**https://home.dynamics.com**](https://home.dynamics.com/)**. Dort werden alle Anwendungen angezeigt, auf die Sie zugreifen können. 
+1. Navigieren Sie in einem Webbrowser zu [**https://home.dynamics.com**](https://home.dynamics.com/). Dort werden alle Anwendungen angezeigt, auf die Sie zugreifen können. 
 
 2. Wählen Sie das **Filtersymbol** neben der Schaltfläche „Weitere Apps abrufen“ aus, um die Anzahl der angezeigten Apps zu reduzieren. 
 

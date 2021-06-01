@@ -14,55 +14,55 @@ Mit Dynamics 365 Field Service kann Ihre Organisation herausragenden Kundenservi
 
 2. Wenn Sie die Anwendung zum ersten Mal öffnen, werden alle wichtigen Informationen für Disponenten und Außendienstmanager direkt angezeigt. 
 
-	– Besprechen Sie kurz die Bereiche und Funktionen der Anwendung, inklusive: 
+	- Besprechen Sie kurz die Bereiche und Funktionen der Anwendung, inklusive: 
 
-		– Zeigen Sie die verschiedenen verfügbaren Dashboards. 
+		- Zeigen Sie die verschiedenen verfügbaren Dashboards. 
 
-		– Zeigen Sie die Arbeitsaufträge im System an, und betonen Sie die verschieden Typen, Planungsstatus usw.. 
+		- Zeigen Sie die Arbeitsaufträge im System an, und betonen Sie die verschieden Typen, Planungsstatus usw.. 
 
-		– Besprechen Sie Konto- und Geokodierungsdaten.
+		- Besprechen Sie Konto- und Geokodierungsdaten.
 
-		– Zeigen Sie kurz die Zeitplanübersicht, und besprechen Sie die grundlegenden Funktionen. 
+		- Zeigen Sie kurz die Zeitplanübersicht, und besprechen Sie die grundlegenden Funktionen. 
 
-		– Erklären Sie die Anlagenverwaltung.
+		- Erklären Sie die Anlagenverwaltung.
 
 3. Führen Sie den allgemeinen Lebenszyklus eines Arbeitsauftrags vor.
 
-	– Besprechen Sie die Arbeitserstellung, und heben Sie verschiedene Optionen beim Erstellen von Arbeitsaufträgen hervor.
+	- Besprechen Sie die Arbeitserstellung, und heben Sie verschiedene Optionen beim Erstellen von Arbeitsaufträgen hervor.
 
-	– Besprechen Sie wichtige Elemente von Arbeitsaufträgen, z. B. Typen, Incidenttypen, Planungseinstellungen, Qualifikationen usw..
+	- Besprechen Sie wichtige Elemente von Arbeitsaufträgen, z. B. Typen, Incidenttypen, Planungseinstellungen, Qualifikationen usw..
 
-	– Planen Sie einen Arbeitsauftrag mit dem Zeitplan-Assistenten.
+	- Planen Sie einen Arbeitsauftrag mit dem Zeitplan-Assistenten.
 
 4. Verwalten Sie Zeitpläne. 
 
-	– Öffnen Sie die Zeitplanübersicht, und besprechen Sie die grundlegenden Navigations- und Filteroptionen.
+	- Öffnen Sie die Zeitplanübersicht, und besprechen Sie die grundlegenden Navigations- und Filteroptionen.
 
-	– Heben Sie wichtige Komponenten wie Ressourcen, Anforderungen, Karten usw. hervor. 
+	- Heben Sie wichtige Komponenten wie Ressourcen, Anforderungen, Karten usw. hervor. 
 
-	– Planen Sie ein Element manuell. 
+	- Planen Sie ein Element manuell. 
 
-	– Zeigen Sie, wie Sie ein Element neu planen und den Status von Ressourcen ändern. 
+	- Zeigen Sie, wie Sie ein Element neu planen und den Status von Ressourcen ändern. 
 
 5. Ausführung von Arbeitsaufträgen 
 
-	– Verwenden Sie die mobile Anwendung. 
+	- Verwenden Sie die mobile Anwendung. 
 
-	– Führen Sie die Anwendung und ihren Funktionsumfang vor.
+	- Führen Sie die Anwendung und ihren Funktionsumfang vor.
 
-	– Besprechen Sie die Ausführung eines Arbeitsauftrags in der mobilen Anwendung.
+	- esprechen Sie die Ausführung eines Arbeitsauftrags in der mobilen Anwendung.
 
-	– Lösen Sie Remote Assist aus.
+	- Lösen Sie Remote Assist aus.
 
-	– Führen Sie eine Inspektion durch.
+	- Führen Sie eine Inspektion durch.
 
 6. Anlagenverwaltung
 
-	– Zeigen Sie den Prozess zum Erstellen und Verwalten von Anlagen.
+	- Zeigen Sie den Prozess zum Erstellen und Verwalten von Anlagen.
 
-	– Untersuchen Sie IoT-fähige Anlagen.
+	- Untersuchen Sie IoT-fähige Anlagen.
 
-	– Zeigen Sie den Überwachungsverlauf an.
+	- Zeigen Sie den Überwachungsverlauf an.
 
-	– Erstellen Sie einen Arbeitsauftrag für eine Anlage.
+	- Erstellen Sie einen Arbeitsauftrag für eine Anlage.
 

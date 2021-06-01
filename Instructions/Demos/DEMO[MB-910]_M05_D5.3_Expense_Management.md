@@ -10,7 +10,7 @@ demo:
 
 1. Öffnen Sie die Dynamics 365 Project Operations-Anwendung, falls noch nicht geschehen. 
 
-	– Erstellen und verwalten Sie Zeiteinträge.
+	- Erstellen und verwalten Sie Zeiteinträge.
 
 		1. Navigieren Sie in der Benutzeroberfläche für Zeiteinträge.
 

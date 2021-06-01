@@ -21,13 +21,13 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 3. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	– **Dienstkonto:** Adventure Works
+	- **Dienstkonto:** Adventure Works
 
-	– **Arbeitsauftragstyp**: Service
+	- **Arbeitsauftragstyp**: Service
 
-	– **Preisliste:** Standardpreisliste
+	- **Preisliste:** Standardpreisliste
 
-	– **Steuerpflichtig:** Nein
+	- **Steuerpflichtig:** Nein
 
 4. Wählen Sie die Registerkarte **Einstellungen** aus.
 
@@ -35,9 +35,9 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 6. Konfigurieren Sie in den **Einstellungen** die folgenden Zeiteinstellungen:
 
-	– **Zeit von zugesagt:** Morgen um 9:00 Uhr
+	- **Zeit von zugesagt:** Morgen um 9:00 Uhr
 
-	– **Zeit bis zugesagt:** Morgen um 11:00 Uhr
+	- **Zeit bis zugesagt:** Morgen um 11:00 Uhr
 
 7. Wählen Sie **Speichern** aus.
 

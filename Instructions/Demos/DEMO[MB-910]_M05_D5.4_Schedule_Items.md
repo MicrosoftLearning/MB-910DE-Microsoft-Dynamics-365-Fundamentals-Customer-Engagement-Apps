@@ -12,7 +12,7 @@ demo:
 
 2. Projekt erstellen
 
-	– Projektstrukturpläne definieren
+	- Projektstrukturpläne definieren
 
 		1. Zuweisungen erstellen
 

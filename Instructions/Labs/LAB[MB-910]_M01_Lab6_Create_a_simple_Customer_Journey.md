@@ -43,13 +43,13 @@ In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselko
 
 11. Wählen Sie die Registerkarte „Allgemein“ am oberen Rand des Kundenkontaktverlauf-Datensatzes aus. Geben Sie die folgenden Informationen auf der Registerkarte **Allgemein** ein.
 
-	– **Name**: Fargo-Kundenkontaktverlauf
+	- **Name**: Fargo-Kundenkontaktverlauf
 
-	– **Startdatum und -zeit**: Geben Sie das heutige Datum ein.
+	- **Startdatum und -zeit**: Geben Sie das heutige Datum ein.
 
-	– **Enddatum und -zeit**: Ein Monat ab heute
+	- **Enddatum und -zeit**: Ein Monat ab heute
 
-	– **Zeitzone**: Wählen Sie Ihre lokale Zeitzone aus. 
+	- **Zeitzone**: Wählen Sie Ihre lokale Zeitzone aus. 
 
 12. Wählen Sie in der Befehlsleiste **Speichern** aus, um Ihren aktuellen Arbeitsfortschritt zu speichern.
 

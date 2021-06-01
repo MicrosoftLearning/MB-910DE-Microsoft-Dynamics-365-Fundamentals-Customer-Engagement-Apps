@@ -31,11 +31,11 @@ Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 
 8. Vervollständigen Sie den Artikel wie folgt:
 
-	– **Titel:** Artikel beschädigt bei Eingang – Ihre Initialen
+	- **Titel:** Artikel beschädigt bei Eingang – Ihre Initialen
 
-	– **Schlüsselwörter:** Defekter Artikel, beschädigt, Rückgabe
+	- **Schlüsselwörter:** Defekter Artikel, beschädigt, Rückgabe
 
-	– **Beschreibung:** Hilft bei der Behebung von Problemen, wenn beschädigte Artikel geliefert werden. 
+	- **Beschreibung:** Hilft bei der Behebung von Problemen, wenn beschädigte Artikel geliefert werden. 
 
 9. Geben Sie den folgenden Text im Inhaltsdesigner ein.   
 ‎  
@@ -97,16 +97,16 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz zunächs
 
 28. Vergewissern sie sich, dass die folgenden Einstellungen ausgewählt sind:
 
-	– **Veröffentlichen:** Jetzt
+	- **Veröffentlichen:** Jetzt
 
-	– **Status „Veröffentlicht“:** Veröffentlicht
+	- **Status „Veröffentlicht“:** Veröffentlicht
 
-	– **Ablaufdatum:** Heute in einem Jahr um 00:00 Uhr
+	- **Ablaufdatum:** Heute in einem Jahr um 00:00 Uhr
 
-	– **Ablaufstatus:** Abgelaufen
+	- **Ablaufstatus:** Abgelaufen
 
-	– **Ablaufstatus:** Abgelaufen
+	- **Ablaufstatus:** Abgelaufen
 
-	– **Genehmigte Übersetzungen veröffentlichen:** Nein
+	- **Genehmigte Übersetzungen veröffentlichen:** Nein
 
 

@@ -14,30 +14,30 @@ Die Kundengewinnungsfunktionen im LinkedIn Sales Navigator ergänzen die Custome
 
 2. Mit dem LinkedIn Sales Navigator können Sie mühelos Interessenten und Organisationen anhand der Informationen finden, die für Ihre Organisation relevant sind. 
 
-	– Führen Sie eine erweiterte Suche durch.
+	- Führen Sie eine erweiterte Suche durch.
 
-	– Passen Sie die Kriterien an, um eine bestimmte Branche anzusprechen.
+	- Passen Sie die Kriterien an, um eine bestimmte Branche anzusprechen.
 
-	– Passen Sie die Kriterien an, um eine bestimmte Rolle anzusprechen.
+	- Passen Sie die Kriterien an, um eine bestimmte Rolle anzusprechen.
 
-	– Passen Sie die Kriterien an, um eine bestimmte Region anzusprechen. 
+	- Passen Sie die Kriterien an, um eine bestimmte Region anzusprechen. 
 
-	– Sehen Sie den Unterschied zwischen den Resultaten an, je nachdem, ob Sie Ihr Netzwerk nutzen. 
+	- Sehen Sie den Unterschied zwischen den Resultaten an, je nachdem, ob Sie Ihr Netzwerk nutzen. 
 
-	– Speichern Sie ein Konto als Interessenten in der Anwendung. 
+	- Speichern Sie ein Konto als Interessenten in der Anwendung. 
 
 3. Die Funktionen des LinkedIn Sales Navigator können mühelos in Dynamics 365 Sales-Datensätze integriert werden, damit die Vertriebsmitarbeiter diese Informationen bei Ihrer Arbeit zur Hand haben. 
 
-	– Öffnen Sie einen Firmendatensatz.
+	- Öffnen Sie einen Firmendatensatz.
 
-		– Heben Sie die Informationen aus dem LinkedIn Sales Navigator hervor, die im Datensatz angezeigt werden.
+		- Heben Sie die Informationen aus dem LinkedIn Sales Navigator hervor, die im Datensatz angezeigt werden.
 
-		– Führen Sie vor, wie Sie mit den Informationen interagieren und Nachforschungen zum Konto anstellen können. 
+		- Führen Sie vor, wie Sie mit den Informationen interagieren und Nachforschungen zum Konto anstellen können. 
 
 - Öffnen Sie einen Kontaktdatensatz.
 
-	– Zeigen Sie die Informationen aus dem LinkedIn Sales Navigator.
+	- Zeigen Sie die Informationen aus dem LinkedIn Sales Navigator.
 
-	– Heben Sie die Aktivitäten aus dem Sales Navigator hervor, die in der Datensatzzeitachse angezeigt werden.
+	- Heben Sie die Aktivitäten aus dem Sales Navigator hervor, die in der Datensatzzeitachse angezeigt werden.
 
-	– Betonen Sie, dass das Kontaktbild automatisch aktualisiert wird. 
+	- Betonen Sie, dass das Kontaktbild automatisch aktualisiert wird. 

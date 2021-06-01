@@ -10,17 +10,17 @@ demo:
 
 1. Vernetzte Kundengeräte remote überwachen und verwalten
 
-	– Zeigen Sie ausgehend von IoT Central, wie die Telemetrie angezeigt wird.
+	- Zeigen Sie ausgehend von IoT Central, wie die Telemetrie angezeigt wird.
 
-		– Nutzen Sie simulierte Geräte.
+		- Nutzen Sie simulierte Geräte.
 
-		– Besprechen Sie ein Ereignis, das ausgelöst wird.
+		- Besprechen Sie ein Ereignis, das ausgelöst wird.
 
 - Wechseln Sie zu Connected Customer Service. 
 
-	– Zeigen Sie, wie IoT-Geräte in der Anwendung abgebildet werden.
+	- Zeigen Sie, wie IoT-Geräte in der Anwendung abgebildet werden.
 
-	– Zeigen Sie, wie IoT-Warnungen in der Anwendung angezeigt werden.
+	- Zeigen Sie, wie IoT-Warnungen in der Anwendung angezeigt werden.
 
 		1. Besprechen Sie die Auflösung von IoT-Warnungen anhand des entsprechenden Geschäftsprozessflows.
 

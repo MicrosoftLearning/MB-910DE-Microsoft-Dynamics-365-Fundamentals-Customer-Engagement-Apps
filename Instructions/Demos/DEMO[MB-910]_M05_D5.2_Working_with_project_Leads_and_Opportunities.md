@@ -12,28 +12,28 @@ demo:
 
 2. Erstellen Sie einen Projektlead.
 
-	– Besprechen Sie den Prozess, und heben Sie projektspezifische Details hervor.
+	- Besprechen Sie den Prozess, und heben Sie projektspezifische Details hervor.
 
-	– Fügen Sie Aktivitäten hinzu, und verwalten Sie die Aktivitäten in der Zeitachse. 
+	- Fügen Sie Aktivitäten hinzu, und verwalten Sie die Aktivitäten in der Zeitachse. 
 
-	– Qualifizieren Sie einen Projektlead.
+	- Qualifizieren Sie einen Projektlead.
 
 3. Verwalten Sie eine Projektverkaufschance.
 
-	– Zeigen Sie, wie Sie Positionen für die Projektverkaufschance hinzufügen.
+	- Zeigen Sie, wie Sie Positionen für die Projektverkaufschance hinzufügen.
 
-	– Erstellen Sie ein Projektangebot für eine Verkaufschance.
+	- Erstellen Sie ein Projektangebot für eine Verkaufschance.
 
-	– Schließen Sie eine Projektverkaufschance.
+	- Schließen Sie eine Projektverkaufschance.
 
 4. Verwalten Sie ein Projektangebot.
 
-	– Bearbeiten Sie die Positionen des Angebots.
+	- Bearbeiten Sie die Positionen des Angebots.
 
-	– Schließen Sie ein Projektangebot.
+	- Schließen Sie ein Projektangebot.
 
 5. Verwalten Sie Projektverträge.
 
-	– Überprüfen Sie die Elemente eines Projektvertrags.
+	- Überprüfen Sie die Elemente eines Projektvertrags.
 
-	– Schließen Sie ein Projektangebot.
+	- Schließen Sie ein Projektangebot.

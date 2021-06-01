@@ -127,19 +127,19 @@ Sie haben jetzt eine Marketing-E-Mail erstellt, die Sie in anderen Bereichen der
 
 3. Füllen Sie die Seite **Neuer Kontakt** wie folgt aus.
 
-	– **Vorname**: Piper 
+	- **Vorname**: Piper 
 
-	– **Nachname**: Smith – Ihre Initialen
+	- **Nachname**: Smith – Ihre Initialen
 
-	– **E-Mail**: Geben Sie eine E-Mail-Adresse ein, unter der Sie E-Mails empfangen können.
+	- **E-Mail**: Geben Sie eine E-Mail-Adresse ein, unter der Sie E-Mails empfangen können.
 
-	– **Adresse 1: Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
+	- **Adresse 1: Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	– **Adresse 1: Ort**: Seattle
+	- **Adresse 1: Ort**: Seattle
 
-	– **Adresse 1: Bundesland/Kanton:** WA
+	- **Adresse 1: Bundesland/Kanton:** WA
 
-	– **Adresse 1: Postleitzahl:** 98001
+	- **Adresse 1: Postleitzahl:** 98001
 
 4. Füllen Sie den Kontakt aus, und wählen Sie **Speichern und schließen** aus.
 
@@ -149,19 +149,19 @@ Sie haben jetzt eine Marketing-E-Mail erstellt, die Sie in anderen Bereichen der
 
 7. Vervollständigen Sie den zweiten Kontakt wie folgt:
 
-	– **Vorname**: Ihr Vorname
+	- **Vorname**: Ihr Vorname
 
-	– **Nachname**: Ihre E-Mail-Adresse
+	- **Nachname**: Ihre E-Mail-Adresse
 
-	– **E-Mail**: Geben Sie eine E-Mail-Adresse ein, unter der Sie E-Mails empfangen können.
+	- **E-Mail**: Geben Sie eine E-Mail-Adresse ein, unter der Sie E-Mails empfangen können.
 
-	– **Adresse 1: Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
+	- **Adresse 1: Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	– **Adresse 1: Ort**: Seattle
+	- **Adresse 1: Ort**: Seattle
 
-	– **Adresse 1: Bundesland/Kanton:** WA
+	- **Adresse 1: Bundesland/Kanton:** WA
 
-	– **Adresse 1: Postleitzahl:** 98001
+	- **Adresse 1: Postleitzahl:** 98001
 
 **HINWEIS:** Wir verwenden dieselben Adressdaten, um die Erkennung der Kontakte als Beispieldaten zu erleichtern. 
 
@@ -211,19 +211,19 @@ Nachdem wir das Segment erfolgreich erstellt haben, überprüfen wir, ob das dyn
 
 3. Füllen Sie die Seite **Neuer Kontakt** wie folgt aus.
 
-	– **Vorname**: Rick
+	- **Vorname**: Rick
 
-	– **Nachname**: Jones – Ihre Initialen
+	- **Nachname**: Jones – Ihre Initialen
 
-	– **E-Mail**: Geben Sie eine E-Mail-Adresse ein, unter der Sie E-Mails empfangen können.
+	- **E-Mail**: Geben Sie eine E-Mail-Adresse ein, unter der Sie E-Mails empfangen können.
 
-	– **Adresse 1: Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
+	- **Adresse 1: Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	– **Adresse 1: Ort**: Seattle
+	- **Adresse 1: Ort**: Seattle
 
-	– **Adresse 1: Bundesland/Kanton:** WA
+	- **Adresse 1: Bundesland/Kanton:** WA
 
-	– **Adresse 1: Postleitzahl:** 98001
+	- **Adresse 1: Postleitzahl:** 98001
 
 4. Füllen Sie den Kontakt aus, und wählen Sie **Speichern und schließen** aus.
 
@@ -269,13 +269,13 @@ Nachdem wir den Marketinginhalt erstellt haben, den wir verteilen möchten, und 
 
 15. Wählen Sie die Registerkarte „Allgemein“ am oberen Rand des Kundenkontaktverlauf-Datensatzes aus. Geben Sie die folgenden Informationen auf der Registerkarte **Allgemein** ein.
 
-	– **Name**: Herbstangebot für die Region Seattle – Ihre Initialen
+	- **Name**: Herbstangebot für die Region Seattle – Ihre Initialen
 
-	– **Startdatum und -zeit**: Geben Sie das heutige Datum ein.
+	- **Startdatum und -zeit**: Geben Sie das heutige Datum ein.
 
-	– **Enddatum und -zeit**: Ein Monat ab heute
+	- **Enddatum und -zeit**: Ein Monat ab heute
 
-	– **Zeitzone**: Wählen Sie Ihre lokale Zeitzone aus. 
+	- **Zeitzone**: Wählen Sie Ihre lokale Zeitzone aus. 
 
 16. Wählen Sie in der Befehlsleiste **Speichern** aus, um Ihren aktuellen Arbeitsfortschritt zu speichern.
 

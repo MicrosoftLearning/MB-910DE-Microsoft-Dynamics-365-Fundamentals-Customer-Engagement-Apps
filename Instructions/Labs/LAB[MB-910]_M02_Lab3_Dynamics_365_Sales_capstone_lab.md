@@ -88,35 +88,35 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 8. Vervollständigen Sie Ihren neuen Leaddatensatz wie folgt:
 
-	– **Thema:** Auf der Suche nach neuer Sicherheitsausrüstung – „Ihr Name“
+	- **Thema:** Auf der Suche nach neuer Sicherheitsausrüstung – „Ihr Name“
 
-	– **Vorname:** Piper
+	- **Vorname:** Piper
 
-	– **Nachname:** Smith – Ihre Initialen
+	- **Nachname:** Smith – Ihre Initialen
 
-	– **Mobiltelefon:** 888 555-1762
+	- **Mobiltelefon:** 888 555-1762
 
-	– **E-Mail:** piper@sample.com
+	- **E-Mail:** piper@sample.com
 
-	– **Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
+	- **Straße 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	– **Ort:** Seattle
+	- **Ort:** Seattle
 
-	– **Bundesland/Kanton:** WA
+	- **Bundesland/Kanton:** WA
 
-	– **Postleitzahl:** 98001 
+	- **Postleitzahl:** 98001 
 
 9. Wählen Sie die Schaltfläche **Speichern** auf der Befehlsleiste aus, um den neuen Lead zu speichern, und lassen Sie ihn offen.
 
 10. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Klicken Sie auf **Phase qualifizieren**, um diese Option auszuwählen. Vervollständigen Sie die Phase wie folgt:
 
-	– **Einkaufszeitrahmen**: Dieses Quartal
+	- **Einkaufszeitrahmen**: Dieses Quartal
 
-	– **Geschätztes Budget:** 10.000 
+	- **Geschätztes Budget:** 10.000 
 
-	– **Kaufvorgang:** Individuell
+	- **Kaufvorgang:** Individuell
 
-	– **Entscheidungsträger identifizieren:** Abgeschlossen
+	- **Entscheidungsträger identifizieren:** Abgeschlossen
 
 11. Klicken Sie auf das **X** im Fenster für die Phase, um das Fenster zu schließen. 
 
@@ -126,13 +126,13 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 14. Füllen Sie den Telefonanruf im Fenster „Schnellerstellung eines Telefonanrufs“ wie folgt aus:
 
-	– **Betreff:** Auf der Suche nach neuer Heimsicherheitsausrüstung
+	- **Betreff:** Auf der Suche nach neuer Heimsicherheitsausrüstung
 
-	– **Telefonnummer:** 888 555-1762
+	- **Telefonnummer:** 888 555-1762
 
-	– **Richtung:** Eingehend
+	- **Richtung:** Eingehend
 
-	– **Beschreibung:** Nach einigen Einbrüchen in der Nachbarschaft möchte die Kundin ein Sicherheitssystem kaufen. 
+	- **Beschreibung:** Nach einigen Einbrüchen in der Nachbarschaft möchte die Kundin ein Sicherheitssystem kaufen. 
 
 15. Klicken Sie auf die Schaltfläche **Speichern und schließen**.
 
@@ -190,9 +190,9 @@ Nachdem wir den Lead erfolgreich als Verkaufschance qualifiziert haben, können 
 
 11. Geben Sie die folgenden Daten ein:
 
-	– **Gesch. Abschlussdatum:** Morgen
+	- **Gesch. Abschlussdatum:** Morgen
 
-	– **Gesch. Umsatz:** 12.500,00
+	- **Gesch. Umsatz:** 12.500,00
 
 12. Wechseln Sie zu **Datensatzzeitachse** in der Mitte des Bildschirms, und klicken Sie auf das **Pluszeichensymbol**, um eine neue Aktivität hinzuzufügen. 
 
@@ -200,13 +200,13 @@ Nachdem wir den Lead erfolgreich als Verkaufschance qualifiziert haben, können 
 
 14. Füllen Sie den Bildschirm **Schnellerfassung: Termin** wie folgt aus:
 
-	– **Betreff:** Kurze Besprechung – Ihre Initialen
+	- **Betreff:** Kurze Besprechung – Ihre Initialen
 
-	– **Ort:** Online
+	- **Ort:** Online
 
-	– **Startzeit**: Morgen um 10:00 Uhr
+	- **Startzeit**: Morgen um 10:00 Uhr
 
-	– **Endzeit:** Morgen um 10:30 Uhr
+	- **Endzeit:** Morgen um 10:30 Uhr
 
 15. Wählen Sie in der Befehlsleiste die Option **Speichern und schließen** aus.
 
@@ -278,15 +278,15 @@ Nachdem Sie ein passendes Angebot haben, können Sie es für die Vorlage beim Ku
 
 12. Füllen Sie das Fenster „Bestellung erstellen“ wie folgt aus:
 
-	– **Statusgrund:** Gewonnen
+	- **Statusgrund:** Gewonnen
 
-	– **Gewonnen am:** Heutiges Datum
+	- **Gewonnen am:** Heutiges Datum
 
-	– **Verkaufschance abschließen:** Ja
+	- **Verkaufschance abschließen:** Ja
 
-	– **Tatsächlichen Umsatz aus Angeboten berechnen:** Nein
+	- **Tatsächlichen Umsatz aus Angeboten berechnen:** Nein
 
-	– **Tatsächl. Umsatz:** 12.500$
+	- **Tatsächl. Umsatz:** 12.500$
 
 13. Wählen Sie die Schaltfläche **OK** aus. 
 
@@ -304,12 +304,12 @@ Nachdem Sie eine Bestellung erstellt haben, werden wir die Bestellung schließen
 
 2. Füllen Sie den Bildschirm „Auftrag erfüllen“ wie folgt aus:
 
-	– **Statusgrund:** Abgeschlossen
+	- **Statusgrund:** Abgeschlossen
 
-	– **Erfüllt am:** Heutiges Datum
+	- **Erfüllt am:** Heutiges Datum
 
 3. Wählen Sie die Schaltfläche **Erfüllen** aus. 
 
 4. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Rechnung erstellen** aus. 
 
-5. Warten Sie, bis der Rechnungsdatensatz geöffnet wurde, und wählen Sie **Rechnung bezahlt* aus.
+5. Warten Sie, bis der Rechnungsdatensatz geöffnet wurde, und wählen Sie **Rechnung bezahlt** aus.

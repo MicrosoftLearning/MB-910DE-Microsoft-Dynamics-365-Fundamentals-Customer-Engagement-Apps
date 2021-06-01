@@ -38,6 +38,6 @@ Minuten kommen, bevor der virtuelle Computer über eine Netzwerkverbindung verf�
 
 2.  Klicken Sie auf die Schaltfläche **Bearbeiten**. Sie öffnen die Contoso-Umgebung im **Power Platform Admin Center.**
 
-4. Wählen Sie **Marketing** aus der Liste der verfügbaren Dynamics 365-Apps aus.
+3. Wählen Sie **Marketing** aus der Liste der verfügbaren Dynamics 365-Apps aus.
 
-5. Nehmen Sie sich etwas Zeit, um die Anwendung zu erkunden.
+4. Nehmen Sie sich etwas Zeit, um die Anwendung zu erkunden.

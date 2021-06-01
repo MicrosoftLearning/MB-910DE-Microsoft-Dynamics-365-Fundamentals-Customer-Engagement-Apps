@@ -20,25 +20,25 @@ Der Prozess zum Anfordern von Produkten hängt von den Anforderungen Ihrer Organ
 
 1. Wechseln Sie zum Bereich „Inventar“, und klicken Sie auf „Bestellungen“.
 
-	– Erstellen Sie eine neue Bestellung.
+	- Erstellen Sie eine neue Bestellung.
 
-		– Heben Sie wichtige Informationen auf der Registerkarte „Details“ hervor, wie etwa Lagerinformationen, Zahlungsdetails, Informationen zum Arbeitsauftrag, zur Buchung und zum Anbieter, usw.. 
+		- Heben Sie wichtige Informationen auf der Registerkarte „Details“ hervor, wie etwa Lagerinformationen, Zahlungsdetails, Informationen zum Arbeitsauftrag, zur Buchung und zum Anbieter, usw.. 
 
-		– Besprechen und zeigen Sie den Bestellungsprozess, der am oberen Rand der Anwendung hervorgehoben wird. 
+		- Besprechen und zeigen Sie den Bestellungsprozess, der am oberen Rand der Anwendung hervorgehoben wird. 
 
-		– Definieren Sie das bestellte Produkt oder die bestellten Produkte für die Bestellung. 
+		- Definieren Sie das bestellte Produkt oder die bestellten Produkte für die Bestellung. 
 
-		– Besprechen Sie, wie der Genehmigungsprozess ablaufen könnte.
+		- Besprechen Sie, wie der Genehmigungsprozess ablaufen könnte.
 
 2. Produkte empfangen
 
-	– Manchmal treffen alle angeforderten Produkte auf einmal ein, in anderen Fällen hängt der Eingang von Faktoren wie Rückständen, Mengen usw. ab, und Sie erhalten nur Teilmengen der Produkte. Mit Dynamics 365 können Sie den Produkteingang registrieren und die eingegangenen Mengen im Verhältnis zu den bestellten Mengen dokumentieren. 
+	- Manchmal treffen alle angeforderten Produkte auf einmal ein, in anderen Fällen hängt der Eingang von Faktoren wie Rückständen, Mengen usw. ab, und Sie erhalten nur Teilmengen der Produkte. Mit Dynamics 365 können Sie den Produkteingang registrieren und die eingegangenen Mengen im Verhältnis zu den bestellten Mengen dokumentieren. 
 
-		– Öffnen Sie ein vorhandenes Produkt.
+		- Öffnen Sie ein vorhandenes Produkt.
 
-		– Gehen Sie zu „Produktzugang“, und erstellen Sie einen Produktzugang.
+		- Gehen Sie zu „Produktzugang“, und erstellen Sie einen Produktzugang.
 
-		– Registrieren Sie Produkteingänge im Produktzugang. 
+		- Registrieren Sie Produkteingänge im Produktzugang. 
 
 			1. Zeigen Sie, wie Sie den Eingang von Teil- und vollständigen Mengen registrieren. 
 
