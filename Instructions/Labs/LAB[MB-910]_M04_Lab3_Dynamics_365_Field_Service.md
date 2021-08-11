@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 4.3: Dynamics 365 Field Service Capstone-Lab'
     module: 'Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren'
@@ -63,7 +63,7 @@ Vor Kurzem hat der Kunde „Active Transport, Inc.“ den Support wegen eines Pr
 
   - **Geschätzte Dauer**: 45 Minuten
 
-## Anleitung
+## Anweisungen
 
 ## Übung 1: Anfrage erstellen und zu einem Arbeitsauftrag eskalieren 
 
@@ -77,15 +77,17 @@ Vor Kurzem hat der Kunde „Active Transport, Inc.“ den Support wegen eines Pr
 
 4. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
-	- **Anfragetitel:** Kamera funktioniert nicht
+	– **Anfragetitel:** Kamera funktioniert nicht
 
-	- **Kunde:** Active Transport Inc.
+	– **Kunde:** Best For You Organics Company
 
-	- **Ursprung:** Telefon
+	– **Ursprung:** Telefon
+
+	Speichern Sie den Datensatz.
 
 5. Wählen Sie die Registerkarte **Außendienst** aus.
 
-6. Wählen Sie unter **Vorfalltyp** den Wert **Kamera funktioniert nicht** aus.
+6. Wählen Sie unter **Vorfalltyp** den Wert **Kamera funktioniert nicht** aus. (Neu erstellen)
 
 7. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Speichern und schließen** aus, um den Anfragedatensatz zu speichern und zu schließen. 
 
@@ -103,13 +105,17 @@ Wir werden später zu Ihrem erstellten Anfragedatensatz zurückkehren. Zunächst
 
 3. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	- **Dienstkonto:** Bremsen und Zahnräder 
+	– **Dienstkonto:** Margie's Travel
 
-	- **Preisliste:** Standardpreisliste
+	– **Preisliste:** Office 365 US (Beispiel)
 
-	- **Primärer Vorfalltyp:** Lüfter ausgefallen
+	– **Arbeitsauftragstyp**: Service
 
-	- **Steuerpflichtig:** Nein
+	– **Steuerpflichtig:** Nein
+
+	Speichern Sie den Datensatz, und weisen Sie den primären Vorfalltyp zu.
+
+	– **Primärer Vorfalltyp:** Lüfter ausgefallen (Neu erstellen)
 
 4. Notieren Sie sich die Arbeitsauftragsnummer, um später überprüfen zu können, ob Sie den richtigen Arbeitsauftrag bearbeiten. 
 
@@ -139,11 +145,7 @@ Sie können Arbeitsaufträge auch erstellen, indem Sie Anfragedatensätze eskali
 
 3. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **In Arbeitsauftrag konvertieren** aus. 
 
-4. Warten Sie, bis der Arbeitsauftrag erstellt wurde, und klicken Sie im Popupbildschirm auf die Schaltfläche **OK**, um die Details des Arbeitsauftrags anzuzeigen. 
-
-5. Wählen Sie die Registerkarte **Services** aus, und vergewissern Sie sich, dass die Services **Systemintegrität überprüfen** und **Bewegungsspielraum überprüfen** zum Arbeitsauftrag hinzugefügt wurden. **HINWEIS:** Falls diese Services nicht angezeigt werden, drücken Sie die F5-Taste, um Ihren Bildschirm zu aktualisieren. 
-
-6. Wählen Sie die Registerkarte **Serviceaufgabe** aus, und vergewissern Sie sich, dass vier Aufgaben hinzugefügt wurden.
+4. Nachdem der Arbeitsauftrag erstellt wurde, wählen Sie die Schaltfläche **OK** im Popupbildschirm aus, um die Details des Arbeitsauftrags anzuzeigen. 
 
  
 
@@ -157,25 +159,19 @@ Beide neu erstellten Arbeitsaufträge können jetzt geplant werden.
 
 2. Legen Sie oben rechts auf dem Bildschirm unter **Neue Zeitplanübersicht** die Option **EIN** fest. 
 
-3. Geben Sie den Namen Ihres Benutzerkontos in das Suchfeld **Ressourcen suchen** ein (Ihr Ressourceneintrag sollte angezeigt werden).
+3. Geben Sie „Aidan Knaggs“ in das Suchfeld **Ressourcen suchen** ein. 
 
 4. Wählen Sie unten auf dem Bildschirm im Anforderungsbereich die Option **Nicht geplante Arbeitsaufträge** aus.  (Falls der Anforderungsbereich nicht angezeigt wird, wählen Sie den Pfeil am unteren Bildschirmrand aus, um ihn zu erweitern). 
 
-5. Suchen Sie den Arbeitsauftrag für **Active Transport**, den Sie aus dem Anfragedatensatz erstellt haben (Verwenden Sie ggf. die Arbeitsauftragsnummer). 
+5. Suchen Sie den Arbeitsauftrag für **Munson's Pickles**, den Sie aus dem Anfragedatensatz erstellt haben (Verwenden Sie ggf. die Arbeitsauftragsnummer). 
 
-6. Ziehen Sie den Datensatz für **Active Transport** und platzieren Sie ihn in einem offenen Zeitfenster für Ihren Benutzerdatensatz. 
+6. Ziehen Sie den Datensatz für **Munson's Pickles** und platzieren Sie ihn in einem offenen Zeitfenster für Aidens Kontaktdatensatz. 
 
 7. Es kann vorkommen, dass Sie einen Arbeitsauftrag aufgrund von Konflikten im Zusammenhang mit Technikern oder anderen Ressourcen umbuchen müssen. Dazu können Disponenten die Zeitplanübersicht verwenden. 
 
-8. Klicken Sie in der Zeitplanübersicht auf das Feld „Ressourcen suchen“ (über der Spalte „Ressourcenname“), geben Sie **Brady** ein, und suchen Sie den Arbeitsauftrag, für den **Brady Hannon** heute eingeplant ist. 
-
-9. **Klicken Sie mit der rechten Maustaste** auf das geplante Element. Wählen Sie im nächsten Menü die Option **Neu zuweisen** aus. Klicken Sie in das Suchfeld, und wählen Sie Ihren Ressourcendatensatz aus.
-
  
 
- 
-
-### Aufgabe 2: Planen mit der Zeitplanübersicht
+### Aufgabe 2: Planen mit der Zeitplanübersicht
 
 1. Klicken Sie im linken Navigationsbereich auf **Zeitplanübersicht**.
 
@@ -185,10 +181,10 @@ Beide neu erstellten Arbeitsaufträge können jetzt geplant werden.
 
 4. Suchen Sie den Arbeitsauftrag für **Active Transport**, den Sie aus dem Anfragedatensatz erstellt haben (Verwenden Sie ggf. die Arbeitsauftragsnummer). 
 
-5. Ziehen Sie den Datensatz für **Active Transport** und platzieren Sie ihn in einem offenen Zeitfenster für Ihren Benutzerdatensatz. 
+5. Ziehen Sie den Datensatz für **Active Transport** und platzieren Sie ihn in einem offenen Zeitfenster für Ihren Benutzerdatensatz. Der Text wird in grün angezeigt, wenn das Zeitfenster mit dem bevorzugten Zeitfenster des Kunden übereinstimmt.
 
 6. Es kann vorkommen, dass Sie einen Arbeitsauftrag aufgrund von Konflikten im Zusammenhang mit Technikern oder anderen Ressourcen umbuchen müssen. Dazu können Disponenten die Zeitplanübersicht verwenden. 
 
-7. Klicken Sie in der Zeitplanübersicht auf das Feld „Ressourcen suchen“ (über der Spalte „Ressourcenname“), geben Sie **Brady** ein, und suchen Sie den Arbeitsauftrag, für den **Brady Hannon** heute eingeplant ist. 
+7. Wählen Sie das Feld „Ressourcen suchen“ in der Zeitplanübersicht (direkt über der Spalte „Ressourcenname“) aus, geben Sie **Brady** ein, und suchen Sie den Arbeitsauftrag, der im Verlauf des heutigen Tages für **Brady Hannon** geplant ist. 
 
-8. **Klicken Sie mit der rechten Maustaste** auf das geplante Element. Wählen Sie im nächsten Menü die Option **Ersatzressource** aus. Klicken Sie in das Such- und Auswahlfeld, wählen Sie Ihren Ressourcendatensatz aus, und wählen Sie dann **Neu zuweisen** aus.
+8. **Klicken Sie mit der rechten Maustaste** auf das geplante Element. Wählen Sie im nächsten Menü die Option **Ersatzressource** aus. Wählen Sie das Auswahl-/Suchfeld aus, wählen Sie Ihren Ressourcendatensatz aus, und wählen Sie **Neu zuweisen** aus.

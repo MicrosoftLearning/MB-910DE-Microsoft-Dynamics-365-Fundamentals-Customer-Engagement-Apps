@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 5.3: Dynamics 365 Project Operations Capstone-Lab'
     module: 'Modul 5: Mehr über die Grundlagen von Dynamics 365 Project Operations erfahren'
@@ -62,7 +62,7 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
   - **Geschätzte Dauer**: 45 Minuten
 
-## Anleitung
+## Anweisungen
 
 ## Übung 1: Erstellen eines Projektangebots und einer Projektschätzung
 
@@ -74,9 +74,9 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 
 1. Wählen Sie in der geöffneten Projektverkaufschance die Registerkarte **Angebote** aus. 
 
-2. Klicken Sie im Unterraster „Angebote“ auf die Schaltfläche **Neues Angebot**.
+2. Wählen Sie im Unterraster „Angebote“ die Schaltfläche **Neues Angebot** aus.
 
-3. Warten Sie, bis das neue Angebot geöffnet wurde. Legen Sie im Feld **Produktpreisliste** im Angebot den Wert **Produkte und gebündelte Services** fest. 
+3. Nachdem der neue Angebotsdatensatz geöffnet wurde, legen Sie im Feld **Produktpreisliste** für das Angebot den Wert **US-Fakturierungsraten** fest. 
 
 4. Wählen Sie die Registerkarte **Angebotszeilen** aus.
 
@@ -86,21 +86,21 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 
 7. Füllen Sie das Projekt im Bildschirm **Schnellerfassung eines Projekts** wie folgt aus:
 
-	- **Name**: Vollständige globale Implementierung – Ihre Initialen
+	– **Name**: Vollständige globale Implementierung – Ihre Initialen
 
-	- **Projektmanager:** Wählen Sie Ihren Benutzer aus
+	– **Projektmanager:** Wählen Sie Ihren Benutzer aus
 
-	- **Kalendervorlage:** Standardarbeitsvorlage
+	– **Kalendervorlage:** Standardarbeitsvorlage
 
-	- **Vertragseinheit:** Fabrikam US
+	– **Vertragseinheit:** Fabrikam US
 
-	- **Geschätztes Startdatum:** Eine Woche ab heute
+	– **Geschätztes Startdatum:** Eine Woche ab heute
 
-	- **Geschätzte Arbeitskosten:** 175.000 $
+	– **Geschätzte Arbeitskosten:** 175.000 $
 
-	- **Geschätzte Ausgabenkosten:** 50.000 $
+	– **Geschätzte Ausgabenkosten:** 50.000 $
 
-	- **Geschätzte Gesamtkosten:** 225.000 $
+	– **Geschätzte Gesamtkosten:** 225.000 $
 
 8. Wählen Sie die Schaltfläche **Speichern und schließen** aus.
 
@@ -116,23 +116,22 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 
 14. Füllen Sie das **Detail zur Angebotsposition** wie folgt aus:
 
-	- **Beschreibung:** Kommunikationsleitung verlegen – Ihre Initialen
+	– **Beschreibung:** Kommunikationsleitung verlegen – Ihre Initialen
 
-	- **Transaktionsklasse:** Zeit
+	– **Transaktionsklasse:** Zeit
 
-	- **Rolle:** Netzwerktechniker
+	– **Rolle:** Netzwerktechniker
 
-	- **Kategorie:** Zeit
+	– **Kategorie:** Zeit
 
-	- **Startdatum:** Ein Monat ab heute
+	– **Startdatum:** Ein Monat ab heute
 
-	- **Enddatum:** Zwei Monate ab heute
+	– **Enddatum:** Zwei Monate ab heute
 
-	- **Ressourcenzuordnungseinheit:** Fabrikam US
+	– **Ressourcenzuordnungseinheit:** Fabrikam US
 
-	- **Einheit:** Stunde
+	– **Einheit:** Stunde
 
-	- **Verkaufsbetrag:** 50.000
 
 15. Wählen Sie die Schaltfläche **Speichern und schließen** aus, um das Detailelement für die Position zu schließen. 
 
@@ -190,31 +189,31 @@ Jedes Projekt verfügt über ein Team von Mitgliedern, die für die Ausführung 
 
 3. Konfigurieren Sie den Eintrag für das Teammitglied wie folgt:
 
-	- **Positionsname:** Robotikexperte – Ihre Initialen
+	– **Positionsname:** Robotikexperte – Ihre Initialen
 
-	- **Buchbare Ressource:** Allison Dickson
+	– **Buchbare Ressource:** Allison Dickson
 
-	- **Rolle:** Robotikexperte
+	– **Rolle:** Robotikexperte
 
 4. Wählen Sie den Pfeil neben der Schaltfläche „Speichern und schließen“ aus. Wählen Sie im nächsten Menü die Option **Speichern und neu erstellen** aus.
 
 5. Konfigurieren Sie den Eintrag für das nächste Teammitglied wie folgt:
 
-	- **Positionsname:** Softwareentwickler – Ihre Initialen
+	– **Positionsname:** Softwareentwickler – Ihre Initialen
 
-	- **Buchbare Ressource:** Bob Kozak
+	– **Buchbare Ressource:** Bob Kozak
 
-	- **Rolle:** Softwareentwickler
+	– **Rolle:** Softwareentwickler
 
 6. Wählen Sie den Pfeil neben der Schaltfläche „Speichern und schließen“ aus. Wählen Sie im nächsten Menü die Option **Speichern und neu erstellen** aus.
 
 7. Konfigurieren Sie den Eintrag für das Teammitglied wie folgt:
 
-	- **Positionsname:** Netzwerktechniker – Ihre Initialen
+	– **Positionsname:** Netzwerktechniker – Ihre Initialen
 
-	- **Buchbare Ressource:** Dianna Woodward
+	– **Buchbare Ressource:** Dianna Woodward
 
-	- **Rolle:** Netzwerktechniker
+	– **Rolle:** Netzwerktechniker
 
 8. Wählen Sie die Schaltfläche **Speichern und schließen** aus.
 
@@ -234,29 +233,29 @@ Beim Definieren von Projekten ist es auch wichtig, die Projektaufgaben und den Z
 
 5. Konfigurieren Sie das Element wie folgt:
 
-	- **Name**: Systemlayout erstellen
+	– **Name**: Systemlayout erstellen
 
-	- **Aufwand:** 25
+	– **Aufwand:** 25
 
 6. Wählen Sie in der Symbolleiste im Unterraster „Zeitplan“ erneut **+ Hinzufügen** aus, um eine weitere Aufgabe hinzuzufügen. 
 
 7. Konfigurieren Sie das Element wie folgt:
 
-	- **Name**: Kameras gestalten
+	– **Name**: Kameras gestalten
 
-	- **Vorherige Aktivität:** Systemlayout erstellen
+	– **Vorherige Aktivität:** Systemlayout erstellen
 
-	- **Aufwand:** 50
+	– **Aufwand:** 50
 
 8. Wählen Sie in der Symbolleiste im Unterraster „Zeitplan“ die Schaltfläche **+ Hinzufügen** aus, um eine letzte Aufgabe hinzuzufügen. 
 
 9. Konfigurieren Sie das Element wie folgt:
 
-	- **Name**: Design prüfen und genehmigen
+	– **Name**: Design prüfen und genehmigen
 
-	- **Vorherige Aktivität:** Kameras gestalten
+	– **Vorherige Aktivität:** Kameras gestalten
 
-	- Aufwand: 8 
+	– Aufwand: 8 
 
  
 **Hinweis:** Lassen Sie die Registerkarte „Zeitplan“ geöffnet, da wir dort in der nächsten Aufgabe weitere Änderungen vornehmen werden. 
@@ -268,17 +267,17 @@ Beim Definieren des Projektzeitplans können Sie angeben, welche Ressourcen eing
 
 1. Öffnen Sie ggf. das Projekt **Vollständige globale Sicherheitsimplementierung – Ihre Initialen**, und wählen Sie die Registerkarte **Zeitplan** aus. 
 
-2. Suchen Sie die zuvor erstellte Aufgabe **Systemlayout erstellen**, und klicken Sie auf das Feld **Ressourcen**. 
+2. Suchen Sie die zuvor erstellte Aufgabe **Systemlayout erstellen** im Feld **Ressourcen**, und wählen Sie sie aus. 
 
 3. Wählen Sie im nächsten Menü die Option **Erstellen** aus. 
 
 4. Konfigurieren Sie das Projektteammitglied wie folgt:
 
-	- **Positionsname:** Generischer Robotikexperte – Ihre Initialen
+	– **Positionsname:** Generischer Robotikexperte – Ihre Initialen
 
-	- **Buchbare Ressource:** Generische Ressource
+	– **Buchbare Ressource:** Generische Ressource
 
-	- **Rolle:** Robotikexperte
+	– **Rolle:** Robotikexperte
 
 5. Wählen Sie **Speichern und schließen** aus. 
 
@@ -290,11 +289,11 @@ Beim Definieren des Projektzeitplans können Sie angeben, welche Ressourcen eing
 
 9. Konfigurieren Sie das Projektteammitglied wie folgt:
 
-	- **Positionsname:** Generischer Robotikexperte – Ihre Initialen
+	– **Positionsname:** Generischer Robotikexperte – Ihre Initialen
 
-	- **Buchbare Ressource:** Generische Ressource
+	– **Buchbare Ressource:** Generische Ressource
 
-	- **Rolle:** Robotikexperte
+	– **Rolle:** Robotikexperte
 
 10. Wählen Sie **Speichern und schließen** aus. 
 

@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 2.1: Lead in Dynamics 365 Sales erstellen und verwalten'
     module: 'Modul 2: Mehr über die Grundlagen von Dynamics 365 Sales erfahren'
@@ -18,7 +18,7 @@ Während dieser Übung erfassen Sie einen Lead für Suzanne Burke. Sie hat Sie k
 
   - **Geschätzte Dauer**: 15 Minuten
 
-## Anleitung
+## Anweisungen
 
 1. Öffnen Sie die **Dynamics 365 Sales Hub**-Anwendung, falls noch nicht geschehen. 
 
@@ -28,39 +28,39 @@ Während dieser Übung erfassen Sie einen Lead für Suzanne Burke. Sie hat Sie k
 
 4. Vervollständigen Sie Ihren neuen Leaddatensatz wie folgt:
 
-	- **Thema:** Auf der Suche nach neuer Ausrüstung – Ihre Initialen
+	– **Thema:** Auf der Suche nach neuer Ausrüstung – Ihre Initialen
 
-	- **Vorname:** Suzanne
+	– **Vorname:** Suzanne
 
-	- **Nachname:** Burke
+	– **Nachname:** Burke
 
-	- **Position:** CFO
+	– **Position:** CFO
 
-	- **Telefonnummer (geschäftlich):** 888 555-8715
+	– **Telefonnummer (geschäftlich):** 888 555-8715
 
-	- **E-Mail:** Suzanne@contososample.com
+	– **E-Mail:** Suzanne@contososample.com
 
-	- **Unternehmen:** Contoso - Washington
+	– **Unternehmen:** Contoso - Washington
 
-	- **Straße 1:** 1989 Smith Ave
+	– **Straße 1:** 1989 Smith Ave
 
-	- **Ort:** Seattle
+	– **Ort:** Seattle
 
-	- **Bundesland/Kanton:** WA
+	– **Bundesland/Kanton:** WA
 
-	- **Postleitzahl:** 98001 
+	– **Postleitzahl:** 98001 
 
 5. Wählen Sie die Schaltfläche **Speichern** auf der Befehlsleiste aus, um den neuen Lead zu speichern, und lassen Sie ihn offen.
 
 6. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Klicken Sie auf **Phase qualifizieren**, um diese Option auszuwählen. Vervollständigen Sie die Phase wie folgt:
 
-	- **Einkaufszeitrahmen**: Dieses Quartal
+	– **Einkaufszeitrahmen**: Dieses Quartal
 
-	- **Geschätztes Budget:** 25.000 
+	– **Geschätztes Budget:** 25000 
 
-	- **Kaufvorgang:** Individuell
+	– **Kaufvorgang:** Individuell
 
-	- **Entscheidungsträger identifizieren:** Abgeschlossen
+	– **Entscheidungsträger identifizieren:** Abgeschlossen
 
 7. Wechseln Sie zu **Datensatzzeitachse** in der Mitte des Bildschirms, und klicken Sie auf das **Pluszeichensymbol**, um eine neue Aktivität hinzuzufügen. 
 
@@ -77,5 +77,3 @@ Während dieser Übung erfassen Sie einen Lead für Suzanne Burke. Sie hat Sie k
 13. Als Nächstes qualifizieren Sie den Leaddatensatz. Dabei wird ein zugehöriger Verkaufschancendatensatz erstellt und die nächste Stufe des Verkaufsprozesses „Lead zu Verkaufschance“ erreicht. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Qualifizieren** aus. 
 
 14. Nachdem das System den Lead qualifiziert hat, wird ein neuer Verkaufschancendatensatz erstellt, und der Geschäftsprozess geht in die Phase **Entwickeln** über. Wählen Sie die Phase **Qualifizieren** aus, um den ursprünglichen Leaddatensatz anzuzeigen. 
-
-15. Wählen Sie die Phase **Entwickeln** aus, um zur Verkaufschance zurückzukehren.
