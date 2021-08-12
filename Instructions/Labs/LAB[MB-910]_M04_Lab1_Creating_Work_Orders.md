@@ -13,7 +13,7 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
   - **Geschätzte Dauer**: 10 Minuten
 
-## Anleitung
+## Anweisungen
 
 1. Wählen Sie links im Navigationsbereich die Option **Arbeitsaufträge** aus.
 
@@ -21,17 +21,19 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 3. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	- **Dienstkonto:** Adventure Works
+	- **Dienstkonto:** Adventure Works Cycles
 
-	- **Arbeitsauftragstyp**: Service
+	- **Arbeitsauftragstyp**: Dienst (neu erstellen)
 
-	- **Preisliste:** Standardpreisliste
+	- **Preisliste:** CRM Service USA (Beispiel)
 
 	- **Steuerpflichtig:** Nein
 
+4. Speichern Sie den Arbeitsauftrag.
+
 4. Wählen Sie die Registerkarte **Einstellungen** aus.
 
-5. Legen Sie im Feld **Servicegebiet** den Wert **WA** fest.
+5. Legen Sie im Feld **Servicegebiet** den Wert **WA** fest. (Neu erstellen)
 
 6. Konfigurieren Sie in den **Einstellungen** die folgenden Zeiteinstellungen:
 

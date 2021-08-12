@@ -18,7 +18,7 @@ Während dieser Übung erfassen Sie manuell eine Verkaufschance für einen beste
 
   - **Geschätzte Dauer**: 25 Minuten
 
-## Anleitung
+## Anweisungen
 
 In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startbildschirm aus auf die verschiedenen Dynamics 365 Customer Engagement-Anwendungen zugreifen. 
 
@@ -32,9 +32,9 @@ In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startb
 
 	- **Thema:** Möchte vorhandenes Arbeitsgerät aktualisieren – Ihre Initialen
 
-	- **Firma:** Adventure Works
+	- **Kontakt:** Jay Klein
 
-	- **Kontakt:** Jim Glynn
+	- **Firma:** Northwind Traders
 
 	- **Einkaufszeitrahmen**: Dieses Quartal
 
@@ -68,9 +68,9 @@ In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startb
 
 13. Wählen Sie im Unterraster „Vertriebsteam“ die **vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Neue Verbindung** aus. 
 
-14. Suchen Sie nach Ihrem Benutzerdatensatz, und wählen Sie ihn aus. Klicken Sie dann auf die Schaltfläche **Hinzufügen**. 
+14. Suchen Sie nach Ihrem Benutzerdatensatz, und wählen Sie ihn aus. Wenn Sie fertig sind, wählen Sie die Schaltfläche **Hinzufügen** aus. 
 
-15. Wählen Sie im Unterraster „Mitbewerber“ die **vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus. 
+15. Wählen Sie im Unterraster „Mitbewerber“ die **Vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus. 
 
 16. Wählen Sie im Bildschirm **Datensatz suchen** erst **Neuer Datensatz** und dann **Mitbewerber** aus.
 
@@ -78,13 +78,13 @@ In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startb
 
 18. Wählen Sie **Speichern und schließen** aus.
 
-19. **Coho Technologies** sollte im Suchdatensatzfenster ausgewählt werden. Klicken Sie auf die Schaltfläche **Hinzufügen**, um das Hinzufügen des Mitbewerbers abzuschließen. 
+19. **Coho Technologies** sollte im Suchdatensatzfenster ausgewählt werden. Wählen Sie die Schaltfläche **Hinzufügen** aus, um den Mitbewerber hinzuzufügen. 
 
-20. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und setzen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen**. 
+20. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und legen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen** fest. 
 
-21. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Vorschlagen** zu gelangen.
+21. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Vorschlagen** zu gelangen.
 
-22. Markieren Sie in der Phase **Vorschlagen** alle vier Schritte als **Abgeschlossen**, und klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Schließen** zu gelangen. 
+22. Markieren Sie in der Phase **Vorschlagen** alle vier Schritte als **Abgeschlossen**, und wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Schließen** zu gelangen. 
 
 23. Markieren Sie in der Phase **Schließen** die Schritte **Endgültigen Vorschlag fertigstellen**, **Endgültigen Vorschlag präsentieren**, **Dankesschreiben senden**, und **Nachbesprechung ablegen** als **Abgeschlossen**. 
 
@@ -94,4 +94,4 @@ In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startb
 
 26. Nachdem Sie den Geschäftsprozess abgeschlossen haben, müssen Sie die Verkaufschance schließen. Wählen Sie auf der **Befehlsleiste** der Verkaufschance die Schaltfläche **Als „Gewonnen“ schließen** aus. 
 
-27. Klicken Sie auf dem Bildschirm **Verkaufschance schließen** auf die Schaltfläche **OK**, um das Schließen des Verkaufschancendatensatzes abzuschließen. 
+27. Wählen Sie auf dem Bildschirm **Verkaufschance abschließen** die Schaltfläche **OK** aus, um das Abschließen der Verkaufschance fertigzustellen. 

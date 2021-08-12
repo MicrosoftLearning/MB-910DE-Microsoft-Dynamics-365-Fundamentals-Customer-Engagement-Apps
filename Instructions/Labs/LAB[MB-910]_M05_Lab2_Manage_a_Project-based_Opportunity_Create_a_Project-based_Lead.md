@@ -27,7 +27,7 @@ Intern konzentriert sich das Unternehmen auf zwei Schlüsselbereiche:
 
 - **Unternehmenskunden:** Vertriebsmitarbeiter für Unternehmen konzentrieren sich auf Kunden, die spezielle und maßgeschneiderte Unternehmenslösungen brauchen. Unternehmensverkäufe umfassen oft mehrere Standorte, die miteinander kommunizieren, und oft sind für den Projektabschluss mehrere Ressourcen erforderlich. Diese Vertriebszyklen dauern meistens länger und sind wesentlich komplexer. 
 
-Es ist wichtig, dass die Vertriebsmitarbeiter bei der Interaktion mit ihren Kunden von ABC alle erforderlichen Tools, Ressourcen und Anleitungen zur Verfügung haben, egal mit welchem Segment sie sich befassen. 
+Es ist wichtig, dass die Vertriebsmitarbeiter bei der Interaktion mit ihren Kunden von ABC alle erforderlichen Tools, Ressourcen und Anleitungen zur Verfügung haben, egal mit welchem Segment sie sich befassen.  
 
 **Systeminstallation:**
 
@@ -76,17 +76,17 @@ Nachdem Sie eine Projektverkaufschance auf Basis eines projektbasierten Leads er
 
 5. Wählen Sie im Geschäftsprozessflow „Lead zu Verkaufschance“ die Phase **Entwickeln** aus. In dieser Phase müssen Sie Stakeholder und Mitbewerber identifizieren.
 
-6. Klicken Sie auf das **X** im Fenster für die Phase, um Ihre Arbeit fortsetzen zu können. 
+6. Wählen Sie das **X** im Fenster für die Phase aus, um Ihre Arbeit fortsetzen zu können. 
 
 7. Beachten Sie, dass **Jean** im Unterraster **Stakeholder** bereits als Stakeholder definiert ist. 
 
 8. Wählen Sie im Unterraster „Vertriebsteam“ die Option **Neue Verbindung** aus (Falls die Schaltfläche **Neue Verbindung** nicht angezeigt wird, wählen Sie die **vertikalen Auslassungspunkte** aus, und wählen Sie im nächsten Menü die Option **Neue Verbindung** aus). 
 
-9. Geben Sie im Feld **Suchen** den Text **System** ein, und wählen Sie den **Benutzerdatensatz aus, den Sie vom Kursleiter erhalten haben**. Klicken Sie dann auf die Schaltfläche **Hinzufügen**. Der Systemadministrator sollte jetzt im Vertriebsteam angezeigt werden. Wählen Sie andernfalls in der Befehlsleiste die Schaltfläche **Aktualisieren** aus. 
+9. Geben Sie im Feld **Suchen** den Text **System** ein, und wählen Sie **Systemadministrator** aus. Wenn Sie fertig sind, wählen Sie die Schaltfläche **Hinzufügen** aus. Der Systemadministrator sollte jetzt im Vertriebsteam angezeigt werden. Wählen Sie andernfalls in der Befehlsleiste die Schaltfläche **Aktualisieren** aus. 
 
 10. Wählen Sie im Unterraster „Mitbewerber“ die **Vertikalen Auslassungspunkte** aus. Wählen Sie im nächsten Menü **Bestehenden Mitbewerber hinzufügen** aus. 
 
-11. Suchen Sie nach **Coho Security**, und wählen Sie den Eintrag aus. (Falls „Coho Security“ nicht existiert, wählen Sie **Neuer Datensatz** und anschließend **Mitbewerber** aus. Fahren Sie andernfalls mit Schritt 15 fort.)  
+11. Suchen Sie nach **Coho Security**, und wählen Sie den Eintrag aus. (Falls „Coho Security“ nicht existiert, wählen Sie **Neuer Datensatz** und anschließend **Mitbewerber** aus. Fahren Sie andernfalls mit Schritt 15 fort**.**)  
 
 12. Geben Sie auf dem Bildschirm Schnellerstellung: **Mitbewerber** im Feld **Name** den Wert **Coho Security – Ihre Initialen** ein.
 
@@ -94,13 +94,13 @@ Nachdem Sie eine Projektverkaufschance auf Basis eines projektbasierten Leads er
 
 14. Wählen Sie den Datensatz für „Coho Security“ aus einer vorherigen Übung aus, und wählen Sie die Schaltfläche **Hinzufügen** aus. 
 
-15. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und setzen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen**. 
+15. Wählen Sie die Phase **Entwickeln** im Geschäftsprozessflow **Lead zu Verkaufschance** aus, und legen Sie die Schritte **Stakeholder identifizieren** und **Mitbewerber identifizieren** auf **Abgeschlossen** fest. 
 
-16. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Vorschlagen** zu gelangen.
+16. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Vorschlagen** zu gelangen.
 
 17. Markieren Sie in der Phase **Vorschlagen** den Punkt **Vertriebsteam identifizieren** als **Abgeschlossen**.
 
-18. Klicken Sie auf das **X** im Fenster für die Phase „Vorschlagen“, um das Fenster zu schließen. 
+18. Wählen Sie das **X** für die Phase „Vorschlagen“ aus, um das Fenster für die Phase zu schließen. 
 
 19. Wählen Sie im Verkaufschancendatensatz die Registerkarte **Verkaufschancenzeilen** aus.
 
@@ -127,7 +127,7 @@ Konfigurieren Sie die neue Verkaufschancenposition wie folgt:
 
 	- **Name**: Systemimplementierung 
 
-	- **Kundenbudget:** 100.000 
+	- **Kundenbudget:** 100000 
 
 	- **Abrechnungsmethode:** Nach Aufwand
 

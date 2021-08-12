@@ -13,7 +13,7 @@ Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 
   - **Geschätzte Dauer**: 15 Minuten
 
-## Anleitung
+## Anweisungen
 
 1. Öffnen Sie die **Dynamics 365 Customer Service Hub**-Anwendung, falls noch nicht geschehen. 
 
@@ -21,13 +21,15 @@ Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 
 3. Mit dem Dropdownpfeil neben **Meine aktiven Artikel** können Sie jederzeit herausfinden, welche Artikel sich in den einzelnen Phasen befinden. 
 
-4. Wählen Sie **Entwurfsartikel** aus. Daraufhin werden vermutlich zwei Artikel im Entwurfsmodus angezeigt.
+4. Wählen Sie die Ansicht **Entwurfsartikel** aus. 
 
-5. Wählen Sie **Genehmigte Artikel** aus. Mindestens ein genehmigter Artikel sollte angezeigt werden. 
+5. Wählen Sie **Genehmigte Artikel** aus. 
 
 6. Wechseln Sie zurück zu **Meine aktiven Artikel**.
 
 7. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neu** aus. 
+
+8. Warten Sie, bis der neue Datensatz geöffnet wurde, und wählen Sie den Dropdownpfeil neben dem Feld **Statusgrund** im Datensatztitel am oberen Rand aus. Wählen Sie unter **Sprache** die Option **Deutsch – Deutschland** aus.
 
 8. Vervollständigen Sie den Artikel wie folgt:
 
@@ -51,7 +53,7 @@ Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 
 	4. Wählen Sie „Beschädigt“ als Begründung aus.
 
-	5. Klicken Sie auf „Drucken“.
+	5. „Drucken“ auswählen
 
 Sobald wir den zurückgegebenen beschädigten Artikel erhalten haben, wird Ihnen der Betrag gutgeschrieben.
 
@@ -77,13 +79,13 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz zunächs
 
 18. Wählen Sie **OK** aus, wenn Sie aufgefordert werden, die Genehmigung des Artikels zu bestätigen. 
 
-19. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Veröffentlichen** zu gelangen. 
+19. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Veröffentlichen** zu gelangen. 
 
 20. Wählen Sie oben auf der **Befehlsleiste** am oberen Rand des Artikels die **vertikalen Auslassungspunkte** links in der Befehlsleiste aus. Wählen Sie im nächsten Menü die Option **Produkt verknüpfen** aus. 
 
 21. Wählen Sie im Fenster **Produkt verknüpfen** die Option **Office 365 für Unternehmen (Beispiel)** aus.
 
-22. Klicken Sie auf die Schaltfläche **Verknüpfen**. 
+22. Wählen Sie die Schaltfläche **Zuordnen** aus. 
 
 23. Wählen Sie unter **Neuer Prozess** die Phase **Veröffentlichen** aus. 
 
@@ -91,9 +93,9 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz zunächs
 
 25. Legen Sie das **Ablaufdatum** auf **heute in einem Jahr um 00:00 Uhr** fest. 
 
-26. Klicken Sie auf die Schaltfläche **Fertig stellen**, um den Prozess abzuschließen. 
+26. Wählen Sie die Schaltfläche **Fertig stellen** aus, um den Prozess abzuschließen. 
 
-27. Klicken Sie auf der **Befehlsleiste** auf die Schaltfläche **Veröffentlichen**. 
+27. Wählen Sie auf der **Befehlsleiste** für den Artikel die Schaltfläche **Veröffentlichen** aus. 
 
 28. Vergewissern sie sich, dass die folgenden Einstellungen ausgewählt sind:
 

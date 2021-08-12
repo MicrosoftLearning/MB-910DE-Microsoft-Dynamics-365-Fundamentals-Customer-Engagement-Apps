@@ -56,7 +56,7 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
   - **Geschätzte Dauer**: 10 Minuten
 
-## Anleitung
+## Anweisungen
 
 ## Übung 1: Erstellen eines projektbasierten Leads
 
@@ -66,11 +66,15 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 2. Melden Sie sich mit den Benutzeranmeldeinformationen an, die Sie vom Kursleiter erhalten haben, wenn Sie dazu aufgefordert werden. 
 
-3. Wählen Sie **Project Operations** in der Liste der angezeigten Anwendungen aus. **(Hinweis:** Der Eintrag kann auch als „Projekt-Service“ angezeigt werden)
+3. Wählen Sie **Projekt-Service** in der Liste der angezeigten Anwendungen aus. 
 
-4. Wählen Sie den Bereich **Projekte** in der Navigation auf der linken Seite des Bildschirms aus. 
+4. Falls „Projekt-Service“ nicht angezeigt wird, besuchen Sie trials.dynamics.com, und installieren Sie die Testversion von Projekt-Service. 
 
-5. Wählen Sie im nächsten Menü die Option **Vertrieb** aus.
+	- Geschäftliche E-Mail-Adresse: E-Mail des Mandanten. 
+
+	- Telefonnummer: Mobiltelefon
+
+5. Wählen Sie den Bereich **Vertrieb** in der Navigation auf der linken Seite des Bildschirms aus. 
 
 6. Wählen Sie **Leads** in der Navigation aus. 
 
@@ -106,19 +110,19 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 11. Wählen Sie die Schaltfläche **Speichern** auf der Befehlsleiste aus, um den neuen Lead zu speichern, und lassen Sie ihn offen.
 
-12. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Klicken Sie auf **Phase qualifizieren**, um diese Option auszuwählen. Vervollständigen Sie die Phase wie folgt:
+12. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Wählen Sie die Phase **Qualifizieren** aus. Vervollständigen Sie die Phase wie folgt:
 
 	- **Einkaufszeitrahmen**: Dieses Quartal
 
-	- **Geschätztes Budget:** 25.000  
+	- **Geschätztes Budget:** 25000  
 
 	- **Kaufvorgang:** Komitee
 
 	- **Entscheidungsträger identifizieren:** Abgeschlossen
 
-13. Klicken Sie auf das **X** im Fenster für die Phase, um das Fenster zu schließen. 
+13. Wählen Sie das **X** im Fenster für die Phase aus, um das Fenster zu schließen. 
 
-14. Wechseln Sie zu **Datensatzzeitachse** in der Mitte des Bildschirms, und klicken Sie auf das **Pluszeichensymbol**, um eine neue Aktivität hinzuzufügen. 
+14. Wechseln Sie zur **Datensatzzeitachse** in der Mitte des Bildschirms, und wählen Sie das **Pluszeichensymbol** aus, um eine neue Aktivität hinzuzufügen. 
 
 15. Wählen Sie im nächsten Menü die Option **Telefonanruf** aus.
 
@@ -132,7 +136,7 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 	- **Beschreibung:** Erstkontakt mit Jean, um die anfängliche Qualifikation zu ermitteln. 
 
-17. Klicken Sie auf die Schaltfläche **Speichern und schließen**.
+17. Wählen Sie **Speichern und schließen** aus.
 
 18. Beachten Sie, dass die Aktivität **Anfänglicher Qualifikationsanruf** auf der **Datensatzzeitachse** angezeigt wird. Bewegen Sie den Mauszeiger über die Aktivität, und wählen Sie die Abschlussaktivität **Häkchensymbol** aus, um den Anruf als abgeschlossen zu markieren. 
 
@@ -148,5 +152,5 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 3. Wählen Sie die Phase **Entwickeln** aus, um zur Verkaufschance zurückzukehren.
 
-4. Klicken Sie auf die Schaltfläche **Speichern und schließen**, um den erstellten Verkaufschancendatensatz zu schließen. 
+4. Wählen Sie die Schaltfläche **Speichern und schließen** aus, um den erstellten Verkaufschancendatensatz zu schließen. 
 

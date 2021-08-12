@@ -17,7 +17,9 @@ In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselko
 
   - **Geschätzte Dauer**: 10 Minuten
 
-## Anleitung
+## Anweisungen
+
+**Hinweis:** Marketing-E-Mails können nicht in Internet Explorer erstellt oder bearbeitet werden. Verwenden Sie Microsoft Edge oder Google Chrome für diese Übung.
 
 **Hinweis:** Bevor wir einen Kundenkontaktverlauf erstellen, benötigen wir eine aktive E-Mail-Adresse, die wir zum Kundenkontaktverlauf hinzufügen können. 
 
@@ -25,7 +27,7 @@ In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselko
 
 2. Wählen Sie links im Navigationsbereich unter der Gruppe „Marketing“ die Option **Marketing-E-Mail** aus.
 
-3. Suchen Sie die Marketing-E-Mail **Präsentation von Stühlen**, und öffnen Sie sie. 
+3. Wählen Sie die Spalte **Erstellungsdatum** aus, und wählen Sie **Nach Datum sortieren (aufsteigend)** aus. Suchen Sie die Marketing-E-Mail **Präsentation von Stühlen**, und öffnen Sie sie. 
 
 4. Wählen Sie oben auf der **Befehlsleiste** die Schaltfläche **Live schalten** aus. 
 
@@ -35,15 +37,15 @@ In dieser Übung werden Sie sehen, dass Kundenkontaktverläufe eine Schlüsselko
 
 7. Die Seite **Neuer Kundenkontaktverlauf** wird mit dem Dialogfeld **Vorlage für den Kundenkontaktverlauf auswählen** geöffnet. Wählen Sie **Überspringen** aus, um einen neuen Kontaktverlauf zu erstellen.
 
-8. Wählen Sie **Zielgruppe festlegen** aus (oder wählen Sie alternativ **+** aus). Wählen Sie das Segment mit den Fargo-Kunden aus, das Sie in der vorherigen Übung erstellt haben. Die erste Kachel wird mit dem Segmentnamen ausgefüllt, und im Bereich **Zielgruppe** werden die Segmenteigenschaften angezeigt.
+8. Wählen Sie **Zielgruppe festlegen** aus (oder wählen Sie alternativ **+** aus). Wählen Sie das Segment mit den Kunden in Chicago aus, das Sie in der vorherigen Übung erstellt haben. Die erste Kachel wird mit dem Segmentnamen ausgefüllt, und im Bereich **Zielgruppe** werden die Segmenteigenschaften angezeigt.
 
-9. Wählen Sie **+** auf dem Canvas aus, und wählen Sie dann **E-Mail senden** im Kontextmenü aus.
+9. Wählen Sie **+** in der Swimlane „Kontakte in Chicago“ aus, und wählen Sie **E-Mail senden** im Kontextmenü aus.
 
 10. Wählen Sie die E-Mail **Präsentation von Stühlen** aus, die Sie zuvor aktiviert haben. 
 
 11. Wählen Sie die Registerkarte „Allgemein“ am oberen Rand des Kundenkontaktverlauf-Datensatzes aus. Geben Sie die folgenden Informationen auf der Registerkarte **Allgemein** ein.
 
-	- **Name**: Fargo-Kundenkontaktverlauf
+	- **Name**: Kundenkontaktverlauf Chicago
 
 	- **Startdatum und -zeit**: Geben Sie das heutige Datum ein.
 

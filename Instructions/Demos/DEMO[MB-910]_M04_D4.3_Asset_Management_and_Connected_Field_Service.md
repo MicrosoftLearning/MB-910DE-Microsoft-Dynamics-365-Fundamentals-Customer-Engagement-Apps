@@ -10,7 +10,7 @@ demo:
 
 IoT-Geräte sind für unseren Alltag immer wichtiger. 
 
-1. Viele Kunden verwenden physische Anlagen, die bearbeitet und gewartet werden müssen. Diese Anlagen sind werden oft zu Anfang installiert, und es werden präventive Wartungsverträge erstellt. Die Anlagenverwaltung in Dynamics 365 Field Service funktioniert Hand in Hand mit der Connected Field Service-Funktion. 
+1. Viele Kunden verwenden physische Anlagen, die bearbeitet und gewartet werden müssen.  Anlagen in Form von vernetzten Geräten enthalten möglicherweise IoT-Sensoren, die Informationen zurückmelden können.  Anlagen werden oft ursprünglich als Teil eines Arbeitsauftrags installiert.  Nach der Installation können präventive Wartungsverträge für die Anlagen eröffnet werden, um geplante Wartungsarbeiten für die Anlage anzubieten.  Die Anlagenverwaltungsfunktionen in Dynamics 365 Field Service können mit den Connected Field Service-Funktionen integriert werden.    
 
 	- Erstellen Sie eine Kundenanlage.
 

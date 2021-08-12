@@ -30,14 +30,14 @@ Minuten kommen, bevor der virtuelle Computer über eine Netzwerkverbindung verf�
 
 **Wichtig:** Beachten Sie bitte, dass dieser Mandant und die Dynamics 365-Organisation mit den anderen Kursteilnehmern in Ihrem Klassenzimmer geteilt werden, so wie Mitarbeiter einen Mandanten gemeinsam nutzen, wenn sie die zu ihrer Organisation gehörende Dynamics 365-Instanz verwenden würden. Verwenden Sie beim Erstellen von Datensätzen keine personenbezogenen Informationen. Es wird auch empfohlen, Ihr Benutzernamenpräfix (z. B. **mollyc**) vor allen von Ihnen erstellten Datensätzen, Daten, Apps, Flows usw. zu verwenden.
 
-3. Erkunden Sie auch das Power Platform Admin Center, aber **nehmen Sie keine Änderungen vor.**
+3. Erkunden Sie das Power Platform Admin Center nach Belieben, **nehmen Sie jedoch keine Änderungen vor**.
 
 ### Aufgabe 2 – Zugriff auf die Dynamics 365-Anwendung
 
-1.  Erweitern Sie die Rasterschaltfläche oben links auf dem Bildschirm, direkt links neben dem **Power Platform Admin Center.** Klicken Sie auf **Dynamics 365.**
+1.  Erweitern Sie die Domino-Schaltfläche im App-Startfeld oben links auf dem Bildschirm, direkt links neben dem **Power Platform Admin Center. Wählen Sie die Dynamics 365 Marketing**-App aus, um sie zu starten.
 
-2.  Klicken Sie auf die Schaltfläche **Bearbeiten**. Sie öffnen die Contoso-Umgebung im **Power Platform Admin Center.**
+2.  Erkunden Sie den Navigationsbereich auf der linken Seite. Mit der Schaltfläche unten im Bereich können Sie zwischen verschiedenen Bereichen wechseln. Aktuell wird der Bereich **Marketing** angezeigt. 
 
-3. Wählen Sie **Marketing** aus der Liste der verfügbaren Dynamics 365-Apps aus.
+3.  Wählen Sie **Marketing** unten im Navigationsbereich aus, und wählen Sie den Bereich **Ereignisse** aus. Erkunden Sie den Bereich **Ereignisse** im Navigationsbereich.  
 
-4. Nehmen Sie sich etwas Zeit, um die Anwendung zu erkunden.
+4. Machen Sie sich einige Minuten lang mit der Anwendung vertraut, und kehren Sie dann zum Bereich **Marketing** zurück.

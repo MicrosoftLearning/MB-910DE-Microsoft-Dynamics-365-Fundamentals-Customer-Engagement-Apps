@@ -18,11 +18,11 @@ In dieser Übung erfahren Sie, wie einfach Sie die verschiedenen Dynamics 365-An
 
   - **Geschätzte Dauer**: 15 Minuten
 
-## Anleitung
+## Anweisungen
 
 In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startbildschirm aus auf die verschiedenen Dynamics 365 Customer Engagement-Anwendungen zugreifen. 
 
-1. Navigieren Sie in einem Webbrowser zu [**https://home.dynamics.com**](https://home.dynamics.com/). Dort werden alle Anwendungen angezeigt, auf die Sie zugreifen können. 
+1. Öffnen Sie **[https://home.dynamics.com](https://home.dynamics.com/)** in einem Webbrowser. Dort werden alle Anwendungen angezeigt, auf die Sie Zugriff haben. 
 
 2. Wählen Sie das **Filtersymbol** neben der Schaltfläche „Weitere Apps abrufen“ aus, um die Anzahl der angezeigten Apps zu reduzieren. 
 
@@ -30,13 +30,13 @@ In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startb
 
 4. Wählen Sie das **X** oben rechts im **Filterfeld** aus, um das Filterfeld zu schließen. 
 
-5. Sie können nach bestimmten Apps suchen, indem Sie links auf dem Bildschirm auf das Feld **Meine Apps durchsuchen** klicken. 
+5. Falls Sie eine bestimmte App suchen, können Sie das Feld **Meine Apps durchsuchen** links auf dem Bildschirm auswählen. 
 
 6. Geben Sie den Text **Vertriebshub** ein, und wählen Sie die App **Vertriebshub** aus, um sie zu öffnen. 
 
 7. In den eigentlichen Apps werden verschiedene Bereiche angezeigt, mit denen Sie arbeiten können, je nachdem, was Sie tun möchten. Die Vertriebshub-Anwendung enthält beispielsweise verschiedene Verwaltungseinstellungen, mit denen Sie arbeiten können. 
 
-8. Wählen Sie links auf dem Bildschirm den Text **Vertrieb** in der angezeigten Liste aus, und wählen Sie **App-Einstellungen** aus. In diesem Teil der Anwendung können Sie die Verwaltungseinstellungen anpassen. 
+8. Wählen Sie **Vertrieb** unten links im Navigationsbereich aus, und wechseln Sie zum Bereich **App-Einstellungen**. Machen Sie sich mit den Anwendungseinstellungen vertraut.
 
 9. Wählen Sie die Bereichsauswahl erneut aus, und wechseln Sie von den **App-Einstellungen** zurück zu **Vertrieb**.
 
