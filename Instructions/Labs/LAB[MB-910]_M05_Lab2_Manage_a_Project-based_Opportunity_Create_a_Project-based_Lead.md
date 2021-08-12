@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 5.2: Projektbasierte Verkaufschance verwalten'
     module: 'Modul 5: Mehr über die Grundlagen von Dynamics 365 Project Operations erfahren'

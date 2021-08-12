@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 4.3: Dynamics 365 Field Service Capstone-Lab'
     module: 'Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren'

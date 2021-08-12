@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 4.1: Arbeitsaufträge in Dynamics 365 Field Service erstellen'
     module: 'Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren'

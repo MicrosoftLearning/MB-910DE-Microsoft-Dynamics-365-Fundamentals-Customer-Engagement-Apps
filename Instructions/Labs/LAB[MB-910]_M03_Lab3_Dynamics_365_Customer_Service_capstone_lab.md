@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 3.3: Dynamics 365 Customer Service Capstone-Lab'
     module: 'Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren'

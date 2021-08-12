@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 1.1: Lab-Umgebung überprüfen'
     module: 'Modul 1: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren'
@@ -34,7 +34,7 @@ Minuten kommen, bevor der virtuelle Computer über eine Netzwerkverbindung verf�
 
 ### Aufgabe 2 – Zugriff auf die Dynamics 365-Anwendung
 
-1.  Erweitern Sie die Domino-Schaltfläche im App-Startfeld oben links auf dem Bildschirm, direkt links neben dem **Power Platform Admin Center. Wählen Sie die Dynamics 365 **Marketing**-App aus, um sie zu starten.
+1.  Erweitern Sie die Domino-Schaltfläche im App-Startfeld oben links auf dem Bildschirm, direkt links neben dem **Power Platform Admin Center. Wählen Sie die Dynamics 365 Marketing**-App aus, um sie zu starten.
 
 2.  Erkunden Sie den Navigationsbereich auf der linken Seite. Mit der Schaltfläche unten im Bereich können Sie zwischen verschiedenen Bereichen wechseln. Aktuell wird der Bereich **Marketing** angezeigt. 
 

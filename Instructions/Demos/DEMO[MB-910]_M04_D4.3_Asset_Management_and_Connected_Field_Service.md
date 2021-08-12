@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'Demo: Anlagenverwaltung und Connected Field Service'
     module: 'Modul 4: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren'
@@ -12,39 +12,39 @@ IoT-Geräte sind für unseren Alltag immer wichtiger.
 
 1. Viele Kunden verwenden physische Anlagen, die bearbeitet und gewartet werden müssen.  Anlagen in Form von vernetzten Geräten enthalten möglicherweise IoT-Sensoren, die Informationen zurückmelden können.  Anlagen werden oft ursprünglich als Teil eines Arbeitsauftrags installiert.  Nach der Installation können präventive Wartungsverträge für die Anlagen eröffnet werden, um geplante Wartungsarbeiten für die Anlage anzubieten.  Die Anlagenverwaltungsfunktionen in Dynamics 365 Field Service können mit den Connected Field Service-Funktionen integriert werden.    
 
-	– Erstellen Sie eine Kundenanlage.
+	- Erstellen Sie eine Kundenanlage.
 
-	– Besprechen Sie die verschiedenen verfügbaren Optionen für die Verwaltung der Anlagen. 
+	- Besprechen Sie die verschiedenen verfügbaren Optionen für die Verwaltung der Anlagen. 
 
-	– Besprechen Sie, wie Sie den Arbeitsauftragsverlauf anzeigen können.
+	- Besprechen Sie, wie Sie den Arbeitsauftragsverlauf anzeigen können.
 
-	– Erklären Sie, wie der funktionale Standort verwendet wird. 
+	- Erklären Sie, wie der funktionale Standort verwendet wird. 
 
-	– Zeigen Sie, wie Sie eine Kundenanlage mit einem IoT-Gerät verbinden. Arbeiten mit Kundenanlagen
+	- Zeigen Sie, wie Sie eine Kundenanlage mit einem IoT-Gerät verbinden. Arbeiten mit Kundenanlagen
 
  
 
 2. Vernetzte Kundengeräte remote überwachen und verwalten
 
-	– Fangen Sie in IoT Central an.
+	- Fangen Sie in IoT Central an.
 
-		– Erklären Sie wichtige Konzepte wie Telemetrie, Messungen, Ereignisse usw.. 
+		- Erklären Sie wichtige Konzepte wie Telemetrie, Messungen, Ereignisse usw.. 
 
-		– Zeigen Sie den Kursteilnehmern anhand von Visualisierungen, wie Ereignisse genutzt werden. 
+		- Zeigen Sie den Kursteilnehmern anhand von Visualisierungen, wie Ereignisse genutzt werden. 
 
-		– Lösen Sie mit einem simulierten Gerät ein Ereignis aus, z. B. ein IoT-Papierkorb, der voll ist und geleert werden muss. 
+		- Lösen Sie mit einem simulierten Gerät ein Ereignis aus, z. B. ein IoT-Papierkorb, der voll ist und geleert werden muss. 
 
-		– Besprechen Sie, was geschieht, wenn das Ereignis ausgelöst wird. 
+		- Besprechen Sie, was geschieht, wenn das Ereignis ausgelöst wird. 
 
 - Telemetrie und Ereignisse werden in IoT-Anwendungen wie IoT Central nachverfolgt und erfasst. Die physische Ausführung der Reaktion auf das Ereignis erfolgt dagegen in den meisten Fällen in Dynamics 365-Anwendungen, wie etwa Field Service. 
 
-	– Wechseln Sie zu Connected Field Service.
+	- Wechseln Sie zu Connected Field Service.
 
 		1. Zeigen Sie, wie IoT-Geräte in Connected Field Service abgebildet werden.
 
 		2. Zeigen Sie, wie IoT-Warnungen in der Anwendung angezeigt werden.
 
-			– Besprechen Sie die Auflösung von IoT-Warnungen anhand des entsprechenden Geschäftsprozessflows.
+			- Besprechen Sie die Auflösung von IoT-Warnungen anhand des entsprechenden Geschäftsprozessflows.
 
 3. Führen Sie einen IoT-Befehl aus einer Warnung heraus aus.
 
@@ -58,7 +58,7 @@ IoT-Geräte sind für unseren Alltag immer wichtiger.
 
 - Proaktive Anfragen
 
-	– Zeigen Sie, wie Sie Sensordetails anzeigen und Muster aus der Vergangenheit identifizieren können. 
+	- Zeigen Sie, wie Sie Sensordetails anzeigen und Muster aus der Vergangenheit identifizieren können. 
 
 		1. Heben Sie Felder für wichtige Metriken auf dem Gerät hervor.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 4.2: Zeitplanung in Dynamics 365 Field Service'
     module: 'Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren'

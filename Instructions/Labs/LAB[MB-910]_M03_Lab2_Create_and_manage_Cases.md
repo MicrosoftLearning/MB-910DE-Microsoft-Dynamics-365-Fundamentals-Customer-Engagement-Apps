@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 3.2: Anfragen in Dynamics 365 Customer Service erstellen und verwalten'
     module: 'Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren'

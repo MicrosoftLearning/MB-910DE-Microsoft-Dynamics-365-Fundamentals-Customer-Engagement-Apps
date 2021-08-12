@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 1.3: Kunden und Aktivitäten verwalten'
     module: 'Modul 1: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren'
