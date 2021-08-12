@@ -47,11 +47,11 @@ In dieser Übung nutzen Sie die Such- und Filterfunktionen in Dynamics 365, um v
 
 13. Füllen Sie das Formular **Schnellerfassung einer Aufgabe** wie folgt aus:
 
-	– **Betreff:** Marketingmaterial senden – Ihre Initialen
+	- **Betreff:** Marketingmaterial senden – Ihre Initialen
 
-	– **Fällig:** Morgen um 8:30 Uhr
+	- **Fällig:** Morgen um 8:30 Uhr
 
-	– **Priorität:** Hoch
+	- **Priorität:** Hoch
 
 14. Wählen Sie **Speichern und schließen** aus.
 

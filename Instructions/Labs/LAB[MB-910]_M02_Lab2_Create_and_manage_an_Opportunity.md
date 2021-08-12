@@ -30,25 +30,25 @@ In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startb
 
 4. Füllen Sie die Verkaufschanceninformationen wie folgt aus:
 
-	– **Thema:** Möchte vorhandenes Arbeitsgerät aktualisieren – Ihre Initialen
+	- **Thema:** Möchte vorhandenes Arbeitsgerät aktualisieren – Ihre Initialen
 
-	– **Kontakt:** Jay Klein
+	- **Kontakt:** Jay Klein
 
-	– **Firma:** Northwind Traders
+	- **Firma:** Northwind Traders
 
-	– **Einkaufszeitrahmen**: Dieses Quartal
+	- **Einkaufszeitrahmen**: Dieses Quartal
 
-	– **Budgetbetrag:** 50.000
+	- **Budgetbetrag:** 50.000
 
-	– **Kaufvorgang:** Individuell
+	- **Kaufvorgang:** Individuell
 
 5. Wählen Sie unter **Neue Kopfzeile der Verkaufschance** oben im Datensatz den Abwärtspfeil neben dem Besitzerfeld aus. 
 
 6. Geben Sie die folgenden Daten ein:
 
-	– **Gesch. Abschlussdatum:** Zwei Tage ab heute
+	- **Gesch. Abschlussdatum:** Zwei Tage ab heute
 
-	– **Gesch. Umsatz:** 50.000
+	- **Gesch. Umsatz:** 50.000
 
 7. Wählen Sie oben auf der **Befehlsleiste** die Schaltfläche **Speichern und schließen** aus. 
 
@@ -60,9 +60,9 @@ In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startb
 
 11. Geben Sie die folgenden Daten ein:
 
-	– **Gesch. Abschlussdatum:** Morgen
+	- **Gesch. Abschlussdatum:** Morgen
 
-	– **Gesch. Umsatz:** 70.000
+	- **Gesch. Umsatz:** 70.000
 
 12. Beachten Sie, dass Suzanne Burke im Unterraster „Stakeholder“ bereits als Stakeholder definiert ist. 
 

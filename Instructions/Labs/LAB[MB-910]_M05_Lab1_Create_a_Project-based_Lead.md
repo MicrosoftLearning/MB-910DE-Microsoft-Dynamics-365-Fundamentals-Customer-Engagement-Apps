@@ -70,9 +70,9 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 4. Falls „Projekt-Service“ nicht angezeigt wird, besuchen Sie trials.dynamics.com, und installieren Sie die Testversion von Projekt-Service. 
 
-	– Geschäftliche E-Mail-Adresse: E-Mail des Mandanten. 
+	- Geschäftliche E-Mail-Adresse: E-Mail des Mandanten. 
 
-	– Telefonnummer: Mobiltelefon
+	- Telefonnummer: Mobiltelefon
 
 5. Wählen Sie den Bereich **Vertrieb** in der Navigation auf der linken Seite des Bildschirms aus. 
 
@@ -86,39 +86,39 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 10. Vervollständigen Sie Ihren neuen Leaddatensatz wie folgt:
 
-	– **Thema:** Vollständige globale Implementierung – Ihre Initialen
+	- **Thema:** Vollständige globale Implementierung – Ihre Initialen
 
-	– **Typ:** Arbeitsbasiert
+	- **Typ:** Arbeitsbasiert
 
-	– **Vorname:** Jean
+	- **Vorname:** Jean
 
-	– **Nachname:** Anderson – Ihre Initialen
+	- **Nachname:** Anderson – Ihre Initialen
 
-	– **Telefonnummer (geschäftlich):** 888 555-8855
+	- **Telefonnummer (geschäftlich):** 888 555-8855
 
-	– **E-Mail:** jean@sample.com
+	- **E-Mail:** jean@sample.com
 
-	– **Unternehmen:** Consolidated Sample – Ihre Initialen
+	- **Unternehmen:** Consolidated Sample – Ihre Initialen
 
-	– **Straße 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
+	- **Straße 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
 
-	– **Ort:** Seattle
+	- **Ort:** Seattle
 
-	– **Bundesland/Kanton:** WA
+	- **Bundesland/Kanton:** WA
 
-	– **Postleitzahl:** 98001 
+	- **Postleitzahl:** 98001 
 
 11. Wählen Sie die Schaltfläche **Speichern** auf der Befehlsleiste aus, um den neuen Lead zu speichern, und lassen Sie ihn offen.
 
 12. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Wählen Sie die Phase **Qualifizieren** aus. Vervollständigen Sie die Phase wie folgt:
 
-	– **Einkaufszeitrahmen**: Dieses Quartal
+	- **Einkaufszeitrahmen**: Dieses Quartal
 
-	– **Geschätztes Budget:** 25000  
+	- **Geschätztes Budget:** 25000  
 
-	– **Kaufvorgang:** Komitee
+	- **Kaufvorgang:** Komitee
 
-	– **Entscheidungsträger identifizieren:** Abgeschlossen
+	- **Entscheidungsträger identifizieren:** Abgeschlossen
 
 13. Wählen Sie das **X** im Fenster für die Phase aus, um das Fenster zu schließen. 
 
@@ -128,13 +128,13 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 16. Füllen Sie den Telefonanruf im Fenster „Schnellerstellung eines Telefonanrufs“ wie folgt aus:
 
-	– **Betreff:** Anfänglicher Qualifikationsanruf – Ihre Initialen  
+	- **Betreff:** Anfänglicher Qualifikationsanruf – Ihre Initialen  
 
-	– **Telefonnummer:** 888 555-8855
+	- **Telefonnummer:** 888 555-8855
 
-	– **Richtung:** Ausgehend
+	- **Richtung:** Ausgehend
 
-	– **Beschreibung:** Erstkontakt mit Jean, um die anfängliche Qualifikation zu ermitteln. 
+	- **Beschreibung:** Erstkontakt mit Jean, um die anfängliche Qualifikation zu ermitteln. 
 
 17. Wählen Sie **Speichern und schließen** aus.
 

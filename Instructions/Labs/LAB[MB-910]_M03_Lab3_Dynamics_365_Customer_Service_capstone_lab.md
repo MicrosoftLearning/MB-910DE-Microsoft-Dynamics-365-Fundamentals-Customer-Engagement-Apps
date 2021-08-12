@@ -83,11 +83,11 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 8. Vervollständigen Sie den Artikel wie folgt:
 
-	– **Titel:** Sensor funktioniert nicht – Ihre Initialen
+	- **Titel:** Sensor funktioniert nicht – Ihre Initialen
 
-	– **Schlüsselwörter:** Sensor, beschädigt, funktioniert nicht
+	- **Schlüsselwörter:** Sensor, beschädigt, funktioniert nicht
 
-	– **Beschreibung:** Dient als Unterstützung, falls ein Sensor nicht funktioniert. 
+	- **Beschreibung:** Dient als Unterstützung, falls ein Sensor nicht funktioniert. 
 
 9. Geben Sie den folgenden Text im **Inhaltsdesigner** ein.   
 
@@ -184,15 +184,15 @@ Nachdem der Artikel genehmigt wurde, werden wir ihn veröffentlichen, um ihn fü
 
 6. Vergewissern sie sich, dass die folgenden Einstellungen ausgewählt sind:
 
-	– **Veröffentlichen:** Jetzt
+	- **Veröffentlichen:** Jetzt
 
-	– **Status „Veröffentlicht“:** Veröffentlicht
+	- **Status „Veröffentlicht“:** Veröffentlicht
 
-	– **Ablaufdatum:** Heute in einem Jahr um 00:00 Uhr
+	- **Ablaufdatum:** Heute in einem Jahr um 00:00 Uhr
 
-	– **Ablaufstatus:** Abgelaufen
+	- **Ablaufstatus:** Abgelaufen
 
-	– **Ablaufstatus:** Abgelaufen
+	- **Ablaufstatus:** Abgelaufen
 
 7. Wählen Sie die Schaltfläche **Veröffentlichen** aus, um den Artikel zu veröffentlichen.
 
@@ -223,13 +223,13 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 12. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
-	– **Anfragetitel:** Sensor funktioniert nicht – Ihre Initialen
+	- **Anfragetitel:** Sensor funktioniert nicht – Ihre Initialen
 
-	– **Kunde:** Piper Smith
+	- **Kunde:** Piper Smith
 
-	– **Ursprung:** Telefon
+	- **Ursprung:** Telefon
 
-	– **Beschreibung:** Piper hat gemeldet, dass einer der Sensoren, die sie erhalten hat, nicht ordnungsgemäß funktioniert. 
+	- **Beschreibung:** Piper hat gemeldet, dass einer der Sensoren, die sie erhalten hat, nicht ordnungsgemäß funktioniert. 
 
 13. Wählen Sie die Schaltfläche **Speichern** aus, um den Datensatz zu speichern, und lassen Sie ihn geöffnet. 
 
@@ -239,13 +239,13 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 16. Füllen Sie die Aktivität im Bildschirm **Schnellerfassung: Telefonanruf** wie folgt aus:
 
-	– **Betreff:** Piper zurückrufen
+	- **Betreff:** Piper zurückrufen
 
-	– **Richtung:** Ausgehend
+	- **Richtung:** Ausgehend
 
-	– **Telefonnummer:**  888 555-1762
+	- **Telefonnummer:**  888 555-1762
 
-	– **Dauer:** 15 Minuten
+	- **Dauer:** 15 Minuten
 
 17. Wählen Sie **Speichern und schließen** aus. 
 
@@ -261,11 +261,11 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 23. Füllen Sie die Aktivität im Bildschirm **Schnellerfassung: Telefonanruf** wie folgt aus:
 
-	– **Betreff:** Von Piper gemeldetes Problem recherchieren
+	- **Betreff:** Von Piper gemeldetes Problem recherchieren
 
-	– **Beschreibung:** Wissensdatenbank nutzen, um das von Piper gemeldete Problem zu recherchieren 
+	- **Beschreibung:** Wissensdatenbank nutzen, um das von Piper gemeldete Problem zu recherchieren 
 
-	– **Dauer:** 30 Minuten
+	- **Dauer:** 30 Minuten
 
 24. Wählen Sie **Speichern und schließen** aus. 
 

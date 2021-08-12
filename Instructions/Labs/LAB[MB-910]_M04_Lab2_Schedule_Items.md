@@ -23,31 +23,31 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 3. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neu** aus, um eine neue buchbare Ressource zu erstellen.
 
-	– **Ressourcentyp**: Kontakt
+	- **Ressourcentyp**: Kontakt
 
-	– **Kontakt:** Eleanor Ribeiro
+	- **Kontakt:** Eleanor Ribeiro
 
 4. Wählen Sie in der **Befehlsleiste** die Option **Speichern und schließen** aus.
 
 5. Wiederholen Sie die Schritte, um drei weitere buchbare Ressourcen zu erstellen.
 
-	– **Ressourcentyp**: Kontakt
+	- **Ressourcentyp**: Kontakt
 
-	– **Kontakt:** Abbie Gardiner
+	- **Kontakt:** Abbie Gardiner
 
 
-	– **Ressourcentyp**: Kontakt
+	- **Ressourcentyp**: Kontakt
 
-	– **Kontakt:** Aidan Knaggs
+	- **Kontakt:** Aidan Knaggs
 	
-	– Wählen Sie die Registerkarte „Verknüpft“ aus, und fügen Sie „WA“ als neues verknüpftes Gebiet hinzu.
+	- Wählen Sie die Registerkarte „Verknüpft“ aus, und fügen Sie „WA“ als neues verknüpftes Gebiet hinzu.
 
 
-	– **Ressourcentyp**: Kontakt
+	- **Ressourcentyp**: Kontakt
 
-	– **Kontakt:** Cacilia Viera
+	- **Kontakt:** Cacilia Viera
 	
-	– Wählen Sie die Registerkarte „Verknüpft“ aus, und fügen Sie „WA“ als neues verknüpftes Gebiet hinzu.
+	- Wählen Sie die Registerkarte „Verknüpft“ aus, und fügen Sie „WA“ als neues verknüpftes Gebiet hinzu.
 
 
 6. Wählen Sie in der **Befehlsleiste** die Option **Speichern und schließen** aus.
@@ -58,17 +58,17 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 9. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	– **Dienstkonto:** Adatum Corporation
+	- **Dienstkonto:** Adatum Corporation
 
-	– **Arbeitsauftragstyp**: Service
+	- **Arbeitsauftragstyp**: Service
 
-	– **Preisliste:** CRM-Dienst USE (Beispiel)
+	- **Preisliste:** CRM-Dienst USE (Beispiel)
 
-	– **Steuerpflichtig:** Nein
+	- **Steuerpflichtig:** Nein
 
 10. Wählen Sie **Speichern** aus, um Ihre Änderungen zu speichern.
 
-	– **Primärer Vorfalltyp:** Gerät überhitzt (Neu erstellen)
+	- **Primärer Vorfalltyp:** Gerät überhitzt (Neu erstellen)
 
 11. Wählen Sie auf der **Befehlsleiste** für den **Arbeitsauftrag** die Schaltfläche **Buchen** aus. Daraufhin wird der **Zeitplan-Assistent** geöffnet. 
 

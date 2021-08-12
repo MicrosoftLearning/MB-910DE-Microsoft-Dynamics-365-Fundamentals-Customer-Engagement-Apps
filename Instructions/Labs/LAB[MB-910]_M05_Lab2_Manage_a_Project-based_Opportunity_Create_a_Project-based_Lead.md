@@ -70,9 +70,9 @@ Nachdem Sie eine Projektverkaufschance auf Basis eines projektbasierten Leads er
 
 4. Geben Sie die folgenden Daten ein:
 
-	– **Gesch. Abschlussdatum:** Morgen
+	- **Gesch. Abschlussdatum:** Morgen
 
-	– **Gesch. Umsatz:** 250.000,00
+	- **Gesch. Umsatz:** 250.000,00
 
 5. Wählen Sie im Geschäftsprozessflow „Lead zu Verkaufschance“ die Phase **Entwickeln** aus. In dieser Phase müssen Sie Stakeholder und Mitbewerber identifizieren.
 
@@ -106,29 +106,29 @@ Nachdem Sie eine Projektverkaufschance auf Basis eines projektbasierten Leads er
 
 20. Wählen Sie im Unterraster „Projektbasierte Zeilen“ die Schaltfläche „Neue Verkaufschancenposition hinzufügen“ aus. Konfigurieren Sie die neue Verkaufschancenposition wie folgt:
 
-	– **Produkttyp:** Projektbasierter Service
+	- **Produkttyp:** Projektbasierter Service
 
-	– **Verkaufschance:** Vollständige globale Sicherheitsimplementierung – Ihre Initialen
+	- **Verkaufschance:** Vollständige globale Sicherheitsimplementierung – Ihre Initialen
 
-	– **Name:** Systementwicklung
+	- **Name:** Systementwicklung
 
-	– **Kundenbudget:** 25.000
+	- **Kundenbudget:** 25.000
 
-	– **Abrechnungsmethode:** Festpreis
+	- **Abrechnungsmethode:** Festpreis
 
 21. Wählen Sie **Speichern und Schließen** aus.
 
 22. Wählen Sie im Unterraster **Projektbasierte Zeilen** erneut die Schaltfläche **Neue Verkaufschancenposition hinzufügen** aus, um eine weitere Position hinzuzufügen.   
 Konfigurieren Sie die neue Verkaufschancenposition wie folgt:
 
-	– **Produkttyp:** Projektbasierter Service
+	- **Produkttyp:** Projektbasierter Service
 
-	– **Verkaufschance:** Vollständige globale Sicherheitsimplementierung – Ihre Initialen
+	- **Verkaufschance:** Vollständige globale Sicherheitsimplementierung – Ihre Initialen
 
-	– **Name**: Systemimplementierung 
+	- **Name**: Systemimplementierung 
 
-	– **Kundenbudget:** 100000 
+	- **Kundenbudget:** 100000 
 
-	– **Abrechnungsmethode:** Nach Aufwand
+	- **Abrechnungsmethode:** Nach Aufwand
 
 23. Wählen Sie **Speichern und Schließen** aus.

@@ -77,11 +77,11 @@ Vor Kurzem hat der Kunde „Active Transport, Inc.“ den Support wegen eines Pr
 
 4. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
-	– **Anfragetitel:** Kamera funktioniert nicht
+	- **Anfragetitel:** Kamera funktioniert nicht
 
-	– **Kunde:** Best For You Organics Company
+	- **Kunde:** Best For You Organics Company
 
-	– **Ursprung:** Telefon
+	- **Ursprung:** Telefon
 
 	Speichern Sie den Datensatz.
 
@@ -105,17 +105,17 @@ Wir werden später zu Ihrem erstellten Anfragedatensatz zurückkehren. Zunächst
 
 3. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	– **Dienstkonto:** Margie's Travel
+	- **Dienstkonto:** Margie's Travel
 
-	– **Preisliste:** Office 365 US (Beispiel)
+	- **Preisliste:** Office 365 US (Beispiel)
 
-	– **Arbeitsauftragstyp**: Service
+	- **Arbeitsauftragstyp**: Service
 
-	– **Steuerpflichtig:** Nein
+	- **Steuerpflichtig:** Nein
 
 	Speichern Sie den Datensatz, und weisen Sie den primären Vorfalltyp zu.
 
-	– **Primärer Vorfalltyp:** Lüfter ausgefallen (Neu erstellen)
+	- **Primärer Vorfalltyp:** Lüfter ausgefallen (Neu erstellen)
 
 4. Notieren Sie sich die Arbeitsauftragsnummer, um später überprüfen zu können, ob Sie den richtigen Arbeitsauftrag bearbeiten. 
 
@@ -125,9 +125,9 @@ Wir werden später zu Ihrem erstellten Anfragedatensatz zurückkehren. Zunächst
 
 7. Konfigurieren Sie in den **Einstellungen** die folgenden Zeiteinstellungen:
 
-	– **Zeit von zugesagt:** Morgen um 9:00 Uhr
+	- **Zeit von zugesagt:** Morgen um 9:00 Uhr
 
-	– **Zeit bis zugesagt:** Morgen um 11:00 Uhr
+	- **Zeit bis zugesagt:** Morgen um 11:00 Uhr
 
 8. Wählen Sie **Speichern und schließen** aus, um Ihre Änderungen zu speichern und den neuen Arbeitsauftrag zu schließen.
 

@@ -28,39 +28,39 @@ Während dieser Übung erfassen Sie einen Lead für Suzanne Burke. Sie hat Sie k
 
 4. Vervollständigen Sie Ihren neuen Leaddatensatz wie folgt:
 
-	– **Thema:** Auf der Suche nach neuer Ausrüstung – Ihre Initialen
+	- **Thema:** Auf der Suche nach neuer Ausrüstung – Ihre Initialen
 
-	– **Vorname:** Suzanne
+	- **Vorname:** Suzanne
 
-	– **Nachname:** Burke
+	- **Nachname:** Burke
 
-	– **Position:** CFO
+	- **Position:** CFO
 
-	– **Telefonnummer (geschäftlich):** 888 555-8715
+	- **Telefonnummer (geschäftlich):** 888 555-8715
 
-	– **E-Mail:** Suzanne@contososample.com
+	- **E-Mail:** Suzanne@contososample.com
 
-	– **Unternehmen:** Contoso - Washington
+	- **Unternehmen:** Contoso - Washington
 
-	– **Straße 1:** 1989 Smith Ave
+	- **Straße 1:** 1989 Smith Ave
 
-	– **Ort:** Seattle
+	- **Ort:** Seattle
 
-	– **Bundesland/Kanton:** WA
+	- **Bundesland/Kanton:** WA
 
-	– **Postleitzahl:** 98001 
+	- **Postleitzahl:** 98001 
 
 5. Wählen Sie die Schaltfläche **Speichern** auf der Befehlsleiste aus, um den neuen Lead zu speichern, und lassen Sie ihn offen.
 
 6. Beachten Sie den Geschäftsprozessflow **Lead für Verkaufschance** am Anfang des Datensatzes. Klicken Sie auf **Phase qualifizieren**, um diese Option auszuwählen. Vervollständigen Sie die Phase wie folgt:
 
-	– **Einkaufszeitrahmen**: Dieses Quartal
+	- **Einkaufszeitrahmen**: Dieses Quartal
 
-	– **Geschätztes Budget:** 25000 
+	- **Geschätztes Budget:** 25000 
 
-	– **Kaufvorgang:** Individuell
+	- **Kaufvorgang:** Individuell
 
-	– **Entscheidungsträger identifizieren:** Abgeschlossen
+	- **Entscheidungsträger identifizieren:** Abgeschlossen
 
 7. Wechseln Sie zu **Datensatzzeitachse** in der Mitte des Bildschirms, und klicken Sie auf das **Pluszeichensymbol**, um eine neue Aktivität hinzuzufügen. 
 

@@ -21,13 +21,13 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 3. Füllen Sie die Details des Arbeitsauftrags wie folgt aus:
 
-	– **Dienstkonto:** Adventure Works Cycles
+	- **Dienstkonto:** Adventure Works Cycles
 
-	– **Arbeitsauftragstyp**: Dienst (neu erstellen)
+	- **Arbeitsauftragstyp**: Dienst (neu erstellen)
 
-	– **Preisliste:** CRM Service USA (Beispiel)
+	- **Preisliste:** CRM Service USA (Beispiel)
 
-	– **Steuerpflichtig:** Nein
+	- **Steuerpflichtig:** Nein
 
 4. Speichern Sie den Arbeitsauftrag.
 
@@ -37,9 +37,9 @@ Modul 4: Mehr über die Grundlagen von Dynamics 365 Field Service erfahren
 
 6. Konfigurieren Sie in den **Einstellungen** die folgenden Zeiteinstellungen:
 
-	– **Zeit von zugesagt:** Morgen um 9:00 Uhr
+	- **Zeit von zugesagt:** Morgen um 9:00 Uhr
 
-	– **Zeit bis zugesagt:** Morgen um 11:00 Uhr
+	- **Zeit bis zugesagt:** Morgen um 11:00 Uhr
 
 7. Wählen Sie **Speichern** aus.
 
