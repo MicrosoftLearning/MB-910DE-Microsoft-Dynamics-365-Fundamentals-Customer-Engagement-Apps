@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 1.7: Dynamics 365 Marketing Capstone-Lab'
     module: 'Modul 1: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren'
