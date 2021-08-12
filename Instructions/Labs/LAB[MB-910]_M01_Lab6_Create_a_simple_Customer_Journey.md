@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 1.6: Einen einfachen Kundenkontaktverlauf erstellen'
     module: 'Modul 1: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren'
