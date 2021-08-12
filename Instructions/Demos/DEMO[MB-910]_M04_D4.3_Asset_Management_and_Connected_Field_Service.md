@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'Demo: Anlagenverwaltung und Connected Field Service'
     module: 'Modul 4: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren'
