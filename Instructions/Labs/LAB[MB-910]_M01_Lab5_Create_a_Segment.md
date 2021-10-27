@@ -17,10 +17,9 @@ In dieser Übung erfahren Sie, wie Sie Kundensegmente erstellen können, die auf
 
   - **Geschätzte Dauer**: 20 Minuten
 
-## Anweisungen
+## Anleitung
 
-
-1. Öffnen Sie die Dynamics Marketing-Anwendung. Der Bereich **Marketing** sollte ausgewählt sein. Wählen Sie **Segmente** unter **Kunden** aus.
+1. Wählen Sie links im Navigationsbereich die Option „Segmente“ unter „Marketing“ aus. 
 
 2. Wählen Sie auf der Befehlsleiste **Neu** aus.
 
@@ -30,15 +29,15 @@ In dieser Übung erfahren Sie, wie Sie Kundensegmente erstellen können, die auf
 
 5. Wählen Sie **Abfrageblock hinzufügen** aus, um eine Abfrage für die Kontakttabelle zu erstellen. 
 
-6. Wählen Sie das Steuerelement **Attribut auswählen** aus.
+6. Wählen Sie den inaktiven Text **Attribut auswählen** aus. 
 
-7. Geben Sie „Ort“ ein, um die Liste zu filtern, und wählen Sie **Adresse 1: Ort** aus.
+7. Geben Sie dann „Stadt“ ein, um die Liste zu filtern, und wählen Sie **Adresse 1: Ort** in der Liste aus.
 
 8. Belassen Sie die nächste Dropdownliste auf **Ist gleich**. 
 
-9. Klicken Sie auf **Eingeben, um zu suchen**, und geben Sie **Chicago** ein.
+9. Wählen Sie die dritte Dropdownliste aus, die den inaktiven Text **Text eingeben** enthält, und geben Sie **Redmond** ein.
 
-10. Wählen Sie das Feld **Name** oben in der Suche aus, und geben Sie **Kontakte in Chicago – Ihre Initialen** ein.
+10. Klicken Sie auf das Feld **Name** am oberen Rand der Abfrage, um es auszuwählen, und geben Sie **Fargo Contacts – Ihre Initialen** ein.
 
 11. Wählen Sie in der Befehlsleiste die Option **Speichern** aus, um Ihr Segment zu speichern.
 
@@ -46,4 +45,4 @@ In dieser Übung erfahren Sie, wie Sie Kundensegmente erstellen können, die auf
 
 13. Warten Sie etwa eine Minute, und klicken Sie dann in der Befehlsleiste auf **Aktualisieren**, um die Seite zu aktualisieren. 
 
-14. Daraufhin sollte eine neue Registerkarte **Mitglieder** hinzugefügt werden. Jackson Anderson wird aufgeführt.
+14. Daraufhin sollte eine neue Registerkarte **Mitglieder** hinzugefügt werden. 

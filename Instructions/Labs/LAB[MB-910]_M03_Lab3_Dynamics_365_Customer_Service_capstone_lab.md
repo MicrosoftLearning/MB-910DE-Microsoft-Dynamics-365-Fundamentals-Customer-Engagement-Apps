@@ -61,7 +61,7 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
   - **Geschätzte Dauer**: 45 Minuten
 
-## Anweisungen
+## Anleitung
 
 ## Übung 1: Knowledge-Artikel erstellen und veröffentlichen
 
@@ -73,13 +73,13 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 3. Mit dem Dropdownpfeil neben **Meine aktiven Artikel** können Sie jederzeit herausfinden, welche Artikel sich in den einzelnen Phasen befinden. 
 
-4. Wählen Sie **Entwurfsartikel** aus. 
+4. Wählen Sie **Entwurfsartikel** aus. Daraufhin werden vermutlich zwei Artikel im Entwurfsmodus angezeigt.
 
-5. Wählen Sie **Genehmigte Artikel** in der Ansichtsauswahl aus.  
+5. Wählen Sie **Genehmigte Artikel** in der Ansichtsauswahl aus. Mindestens ein genehmigter Artikel sollte angezeigt werden. 
 
 6. Wechseln Sie in der Ansichtsauswahl zurück zu **Meine aktiven Artikel**.
 
-7. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neu** aus. Warten Sie, bis der neue Datensatz geöffnet wurde, und wählen Sie den Dropdownpfeil neben dem Feld **Statusgrund** im Datensatztitel am oberen Rand aus. Wählen Sie unter **Sprache** die Option **Deutsch – Deutschland** aus.
+7. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neu** aus. 
 
 8. Vervollständigen Sie den Artikel wie folgt:
 
@@ -153,7 +153,7 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz in den m
 
 13. Drücken Sie die **Eingabetaste**. 
 
-14. Geben Sie den Text „Bestätigen-Schaltfläche drücken“ ein. 
+14. Geben Sie den Text „Drücken Sie die **Bestätigen**-Taste“ ein. 
 
 15. Wählen Sie in der **Befehlsleiste** die Option **Speichern und schließen** aus.
 
@@ -172,15 +172,15 @@ Nachdem ein Autor den Datensatz erstellt hat, durchläuft der Datensatz in den m
 
 Nachdem der Artikel genehmigt wurde, werden wir ihn veröffentlichen, um ihn für andere Personen bei der Bearbeitung von Anfragen verfügbar zu machen. 
 
-1. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Veröffentlichen** zu gelangen. 
+1. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Veröffentlichen** zu gelangen. 
 
 2. Legen Sie für **Produktzuordnungen festlegen** den Wert **Abgeschlossen** fest. 
 
 3. Legen Sie das **Ablaufdatum** auf **heute in einem Jahr um 00:00 Uhr** fest. 
 
-4. Wählen Sie die Schaltfläche **Fertig stellen** aus, um den Prozess abzuschließen. 
+4. Klicken Sie auf die Schaltfläche **Fertig stellen**, um den Prozess abzuschließen. 
 
-5. Wählen Sie auf der **Befehlsleiste** für den Artikel die Schaltfläche **Veröffentlichen** aus. 
+5. Klicken Sie auf der **Befehlsleiste** auf die Schaltfläche **Veröffentlichen**. 
 
 6. Vergewissern sie sich, dass die folgenden Einstellungen ausgewählt sind:
 
@@ -194,10 +194,10 @@ Nachdem der Artikel genehmigt wurde, werden wir ihn veröffentlichen, um ihn fü
 
 	- **Ablaufstatus:** Abgelaufen
 
-7. Wählen Sie die Schaltfläche **Veröffentlichen** aus, um den Artikel zu veröffentlichen.
+7. Klicken Sie auf die Schaltfläche **Veröffentlichen**, um den Artikel zu veröffentlichen.
 
 
-## Übung 2: Supportanfrage über ihren Lebenszyklus hinweg verwalten
+## Übung 2: Supportanfrage über ihren Lebenszyklus hinweg verwalten
 
 
 ### Aufgabe 1: Anfrage erstellen und verwalten
@@ -208,8 +208,17 @@ Nachdem der Artikel genehmigt wurde, werden wir ihn veröffentlichen, um ihn fü
 
 3. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Visuellen Filter anzeigen** aus.
 
+4. Wählen Sie im Diagramm **Anfragemix (nach Ursprung)** und die Option **Telefon** aus. Daraufhin werden die Anfragen gefiltert, und es werden nur noch Telefonanfragen angezeigt.  
 
-4. Zusätzliche Dashboards enthalten weitere Details zum aktuellen Anfragevolumen. Sie können die Dashboard-Auswahl verwenden, um zu den anderen Dashboards zu gelangen. Wechseln Sie vom **Ebene-1-Dashboard** zum **Ebene-2-Dashboard**. 
+5. Wählen Sie **Alles löschen** aus, um den Filter zu löschen.
+
+6. Wählen Sie im Diagramm **Anfragen nach Priorität** die Option **Hoch** aus. Die Anfrageliste wird gefiltert, und es werden nur noch Anfragen mit hoher Priorität angezeigt.  
+
+7. Klicken Sie auf die erste angezeigte Anfrage, um sie zu öffnen. Warten Sie, bis die Anfrage geöffnet wurde, und klicken Sie auf die Schaltfläche **Speichern und schließen** in der Befehlsleiste, um die Anfrage zu schließen und zum **Ebene-1**-Dashboard zurückzukehren. 
+
+8. Wählen Sie **Alles löschen** aus, um alle angewendeten Filter zu entfernen. 
+
+9. Zusätzliche Dashboards enthalten weitere Details zum aktuellen Anfragevolumen. Sie können die Dashboard-Auswahl verwenden, um zu den anderen Dashboards zu gelangen. Wechseln Sie vom **Ebene-1-Dashboard** zum **Ebene-2-Dashboard**. 
 
  
 
@@ -247,13 +256,13 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 	- **Dauer:** 15 Minuten
 
-17. Wählen Sie **Speichern und schließen** aus. 
+17. Klicken Sie auf die Schaltfläche **Speichern und schließen**. 
 
 18. Wählen Sie unter **Telefon-zu-Anfrage-Prozess** die Phase **Identifizieren** aus.
 
-19. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Recherche** zu gelangen. 
+19. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Recherchieren** zu gelangen. 
 
-20. Wählen Sie das **X** im Fenster für die Phase **Recherche** aus, um das Fenster zu schließen und Ihre Arbeit fortsetzen zu können. 
+20. Klicken Sie auf das **X** im Flyout-Fenster für die Phase **Recherchieren**, um das Fenster zu entfernen, damit Sie Ihre Arbeit fortsetzen können. 
 
 21. Wählen Sie auf der **Datensatzzeitachse** das **Pluszeichensymbol** aus, um eine neue Aktivität zu erstellen. 
 
@@ -267,7 +276,7 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 	- **Dauer:** 30 Minuten
 
-24. Wählen Sie **Speichern und schließen** aus. 
+24. Klicken Sie auf die Schaltfläche **Speichern und schließen**. 
 
 25. Suchen Sie auf der rechten Seite des Anfragebildschirms das Buchsymbol **Wissen**, und wählen Sie es aus (Das Symbol befindet sich direkt unter dem Schraubenschlüsselsymbol).
 
@@ -283,11 +292,11 @@ Nachdem Sie sich mit den unterschiedlichen Ansichten und Dashboards vertraut gem
 
 Nachdem wir eine Lösung für das von der Kundin gemeldete Problem haben, können wir uns darauf vorbereiten, die Anfrage abzuschließen. Dazu werden wir zunächst alle offenen Aktivitäten schließen, die zur Anfrage zugeordnet sind. 
 
-1. Zeigen Sie in der **Datensatzzeitachse** auf die zuvor erstellte Aufgabe **Von Piper gemeldetes Problem recherchieren****.** Wählen Sie das Häkchensymbol **Als erledigt markieren** aus, um die Aktivität abzuschließen. 
+1. Zeigen Sie in der Datensatz**zeitachse** auf die zuvor erstellte Aufgabe **Von Piper gemeldetes Problem recherchieren**. Wählen Sie das Häkchensymbol **Als erledigt markieren** aus, um die Aktivität abzuschließen. 
 
 2. Vergewissern Sie sich im Fenster **Aufgabe schließen**, dass der Status auf Abgeschlossen festgelegt ist, und wählen Sie die Schaltfläche **Schließen** aus. Der Status der Aufgabe sollte als **Geschlossen** angezeigt werden. 
 
-3. Zeigen Sie auf die zuvor erstellte Telefonanrufaktivität **Piper zurückrufen****.** Wählen Sie das Häkchensymbol **Als erledigt markieren** aus, um die Aktivität abzuschließen. 
+3. Zeigen Sie auf die zuvor erstellte Telefonanrufaktivität **Piper zurückrufen**. Wählen Sie das Häkchensymbol **Als erledigt markieren** aus, um die Aktivität abzuschließen. 
 
 4. Vergewissern Sie sich im Fenster **Telefonanruf schließen**, dass der **Zustand** als **Abgeschlossen** und der **Status** als **Erledigt** angezeigt wird. Klicken Sie auf die Schaltfläche **Schließen**. Vergewissern sie sich, dass die Aktivität in der Zeitachse als geschlossen angezeigt wird 
 
