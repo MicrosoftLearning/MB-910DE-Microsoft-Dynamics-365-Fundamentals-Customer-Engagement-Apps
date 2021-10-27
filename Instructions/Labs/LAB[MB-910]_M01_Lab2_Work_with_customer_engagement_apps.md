@@ -22,26 +22,20 @@ In dieser Übung erfahren Sie, wie einfach Sie die verschiedenen Dynamics 365-An
 
 In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startbildschirm aus auf die verschiedenen Dynamics 365 Customer Engagement-Anwendungen zugreifen. 
 
-1. Öffnen Sie **[https://home.dynamics.com](https://home.dynamics.com/)** in einem Webbrowser. Dort werden alle Anwendungen angezeigt, auf die Sie Zugriff haben. 
+1.	Navigieren Sie in Ihrem Webbrowser zu https://www.office.com/apps: 
 
-2. Wählen Sie das **Filtersymbol** neben der Schaltfläche „Weitere Apps abrufen“ aus, um die Anzahl der angezeigten Apps zu reduzieren. 
+2.	Wählen Sie die Registerkarte „Business-Apps“ aus.  
 
-3. Wählen Sie unter **NACH INSTANZNAME** die Option **KEINE** aus. Wählen Sie anschließend die Umgebung aus, die Sie verwenden möchten. 
+3.	Geben Sie in das Suchfeld den Text „Vertriebshub“ ein, und wählen Sie die App „Vertriebshub“ aus, um sie zu öffnen.  
 
-4. Wählen Sie das **X** oben rechts im **Filterfeld** aus, um das Filterfeld zu schließen. 
+4. In den eigentlichen Apps werden verschiedene Bereiche angezeigt, mit denen Sie arbeiten können, je nachdem, was Sie tun möchten. Die Vertriebshub-Anwendung enthält beispielsweise verschiedene Verwaltungseinstellungen, mit denen Sie arbeiten können. 
 
-5. Falls Sie eine bestimmte App suchen, können Sie das Feld **Meine Apps durchsuchen** links auf dem Bildschirm auswählen. 
+5. Wählen Sie **Vertrieb** unten links im Navigationsbereich aus, und wechseln Sie zum Bereich **App-Einstellungen**. Machen Sie sich mit den Anwendungseinstellungen vertraut.
 
-6. Geben Sie den Text **Vertriebshub** ein, und wählen Sie die App **Vertriebshub** aus, um sie zu öffnen. 
+6. Wählen Sie die Bereichsauswahl erneut aus, und wechseln Sie von den **App-Einstellungen** zurück zu **Vertrieb**.
 
-7. In den eigentlichen Apps werden verschiedene Bereiche angezeigt, mit denen Sie arbeiten können, je nachdem, was Sie tun möchten. Die Vertriebshub-Anwendung enthält beispielsweise verschiedene Verwaltungseinstellungen, mit denen Sie arbeiten können. 
+7. Falls Sie von der Vertriebs-App zu einer anderen App wie etwa dem Kundenservicehub wechseln möchten, wählen Sie den Text **Vertriebshub** oben links auf dem Bildschirm neben dem Text „Dynamics 365“ aus. 
 
-8. Wählen Sie **Vertrieb** unten links im Navigationsbereich aus, und wechseln Sie zum Bereich **App-Einstellungen**. Machen Sie sich mit den Anwendungseinstellungen vertraut.
+8. Daraufhin wird der Apps-Bildschirm geöffnet. Wählen Sie **Kundenservicehub** aus, um zur Kundenservicehub-Anwendung zu gelangen. 
 
-9. Wählen Sie die Bereichsauswahl erneut aus, und wechseln Sie von den **App-Einstellungen** zurück zu **Vertrieb**.
-
-10. Falls Sie von der Vertriebs-App zu einer anderen App wie etwa dem Kundenservicehub wechseln möchten, wählen Sie den Text **Vertriebshub** oben links auf dem Bildschirm neben dem Text „Dynamics 365“ aus. 
-
-11. Daraufhin wird der Apps-Bildschirm geöffnet. Wählen Sie **Kundenservicehub** aus, um zur Kundenservicehub-Anwendung zu gelangen. 
-
-12. Wählen Sie oben den Text **Kundenservicehub** aus, um zurück zur **Vertriebshub**-App zu gelangen. 
+9. Wählen Sie oben den Text **Kundenservicehub** aus, um zurück zur **Vertriebshub**-App zu gelangen. 
