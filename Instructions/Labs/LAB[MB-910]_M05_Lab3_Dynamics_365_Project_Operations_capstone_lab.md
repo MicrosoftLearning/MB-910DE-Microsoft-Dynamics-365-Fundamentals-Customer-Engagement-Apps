@@ -62,7 +62,7 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
   - **Geschätzte Dauer**: 45 Minuten
 
-## Anweisungen
+## Anleitung
 
 ## Übung 1: Erstellen eines Projektangebots und einer Projektschätzung
 
@@ -74,9 +74,9 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 
 1. Wählen Sie in der geöffneten Projektverkaufschance die Registerkarte **Angebote** aus. 
 
-2. Wählen Sie im Unterraster „Angebote“ die Schaltfläche **Neues Angebot** aus.
+2. Klicken Sie im Unterraster „Angebote“ auf die Schaltfläche **Neues Angebot**.
 
-3. Nachdem der neue Angebotsdatensatz geöffnet wurde, legen Sie im Feld **Produktpreisliste** für das Angebot den Wert **US-Fakturierungsraten** fest. 
+3. Warten Sie, bis das neue Angebot geöffnet wurde. Legen Sie im Feld **Produktpreisliste** im Angebot den Wert **Produkte und gebündelte Services** fest. 
 
 4. Wählen Sie die Registerkarte **Angebotszeilen** aus.
 
@@ -96,11 +96,11 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 
 	- **Geschätztes Startdatum:** Eine Woche ab heute
 
-	- **Geschätzte Arbeitskosten:** 175.000 $
+	- **Geschätzte Arbeitskosten:** 175.000 $
 
-	- **Geschätzte Ausgabenkosten:** 50.000 $
+	- **Geschätzte Ausgabenkosten:** 50.000 $
 
-	- **Geschätzte Gesamtkosten:** 225.000 $
+	- **Geschätzte Gesamtkosten:** 225.000 $
 
 8. Wählen Sie die Schaltfläche **Speichern und schließen** aus.
 
@@ -132,6 +132,7 @@ In dieser Übung erstellen Sie ein Projekt und definieren Details für das Proje
 
 	- **Einheit:** Stunde
 
+	- **Verkaufsbetrag:** 50.000
 
 15. Wählen Sie die Schaltfläche **Speichern und schließen** aus, um das Detailelement für die Position zu schließen. 
 
@@ -267,7 +268,7 @@ Beim Definieren des Projektzeitplans können Sie angeben, welche Ressourcen eing
 
 1. Öffnen Sie ggf. das Projekt **Vollständige globale Sicherheitsimplementierung – Ihre Initialen**, und wählen Sie die Registerkarte **Zeitplan** aus. 
 
-2. Suchen Sie die zuvor erstellte Aufgabe **Systemlayout erstellen** im Feld **Ressourcen**, und wählen Sie sie aus. 
+2. Suchen Sie die zuvor erstellte Aufgabe **Systemlayout erstellen**, und klicken Sie auf das Feld **Ressourcen**. 
 
 3. Wählen Sie im nächsten Menü die Option **Erstellen** aus. 
 

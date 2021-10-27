@@ -11,21 +11,21 @@ Modul 1: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren
 
 ## Ziele
 
-Eine der häufigsten Aktivitäten in Dynamics 365-Anwendungen ist das Definieren und Verwalten von Konto- und Kontaktdatensätzen. Nachdem die Konten und Kontakte erstellt wurden, werden die Interaktionen mit Ihren Kunden in Form von Aktivitäten wie Telefonanrufen, Aufgaben und Terminen dargestellt.
+Das Definieren von und Arbeiten mit Konto- und Kontaktdatensätzen in Dynamics 365-Anwendungen ist eine der häufigsten Aktivitäten, die Sie in der Anwendung ausführen. Sobald Konten und Kontakte erstellt wurden, repräsentieren Aktivitäten wie Telefonanrufe, Aufgaben und Termine die Interaktionen mit Ihren Kunden.
 
 ## Übungsaufbau
 
   - **Geschätzte Dauer**: 15 Minuten
 
-## Anweisungen
+## Anleitung
 
-In dieser Übung arbeiten Sie mit allgemeinen Datensätzen, die von allen Dynamics 365 Customer Engagement-Apps verwendet werden. 
+In dieser Übung arbeiten Sie mit den allgemeinen Datensätzen, die von allen Customer Engagement-Apps von Erstanbietern verwendet werden. 
 
 1. Öffnen Sie die **Dynamics 365 Sales Hub**-Anwendung, falls noch nicht geschehen. 
 
 2. Wählen Sie **Firmen** in der Navigation auf der linken Seite des Bildschirms aus. 
 
-3. Wählen Sie am oberen Bildschirmrand auf der Befehlsleiste die Schaltfläche **Neu** aus.
+3. Wählen Sie auf der Befehlsleiste die Schaltfläche **Neu** aus.
 
 4. Vervollständigen Sie den Firmendatensatz wie folgt:
 
@@ -61,7 +61,7 @@ In dieser Übung arbeiten Sie mit allgemeinen Datensätzen, die von allen Dynami
 
 8. Wählen Sie das Feld **Übergeordnete Firma** neben der Firma **Contoso Corporate** aus, die Sie zuvor erstellt haben. 
 
-9. Wählen Sie die Schaltfläche **Speichern** aus, um das Konto zu speichern, und lassen Sie es geöffnet. 
+9. Klicken Sie auf die Schaltfläche **Speichern**, um die Firma zu speichern, und lassen Sie sie geöffnet. 
 
 10. Suchen Sie das **Unterraster Kontakte** auf der rechten Seite des Bildschirms. 
 
@@ -81,7 +81,7 @@ In dieser Übung arbeiten Sie mit allgemeinen Datensätzen, die von allen Dynami
 
 14. Wählen Sie über dem Unterraster Kontakt das Feld **Hauptkontaktperson** aus, und wählen Sie dort den Kontakt **Jackson Anderson** aus, den Sie soeben erstellt haben. 
 
-15. Wählen Sie auf der **Datensatzzeitachse** in der Mitte des Bildschirms das **+**-Symbol aus, um ein neues Aktivitätselement hinzuzufügen. 
+15. Wählen Sie in der **Datensatzzeitachse** in der Mitte des Bildschirms das **Pluszeichensymbol** aus, um ein neues Element hinzuzufügen. 
 
 16. Wählen Sie im nächsten Menü die Option **Termin** aus.
 
@@ -95,18 +95,18 @@ In dieser Übung arbeiten Sie mit allgemeinen Datensätzen, die von allen Dynami
 
 18. Wählen Sie **Speichern und schließen** aus. 
 
-19. Warten Sie, bis die Zeitachse automatisch aktualisiert wurde. 
+19. Drücken Sie auf der Tastatur die **F5-Taste**, um den Bildschirm zu aktualisieren. 
 
-20. Beachten Sie, dass in der **Zeitachse** jetzt Informationen zum Termin angezeigt werden. 
+20. Im **Assistent** auf der rechten Seite des Bildschirms werden jetzt Informationen zum Termin angezeigt. 
 
 21. **Speichern und schließen** Sie die Firma. 
 
-22. Wählen Sie im Abschnitt **Meine Aufgaben** im Navigationsbereich den Eintrag **Aktivitäten** aus.
+22. Klicken Sie auf den **Termin**, um ihn auszuwählen und Details anzuzeigen. 
 
-23. Wählen Sie den Link **Besprechung mit Jackson** aus, um die Terminzeile zu öffnen und das Formular anzuzeigen. 
+23. Wählen Sie den Link **Termin öffnen** aus.
 
-24. Wählen Sie im geöffneten Termindatensatz auf der **Befehlsleiste** die Schaltfläche **Als erledigt markieren** aus, um den Termin abzuschließen. 
+24. Warten Sie, bis der Termin geöffnet wurde, und wählen Sie in der **Befehlsleiste** die Schaltfläche **Als erledigt markieren** aus, um den Termin abzuschließen. 
 
-25. Beachten Sie, dass der Termin nicht mehr in der Ansicht **Meine Aktivitäten** angezeigt wird. 
+25. Wählen Sie **Speichern und schließen** aus, um zum Firmendatensatz zurückzukehren. 
 
-26. Wählen Sie die Ansicht **Meine Aktivitäten** aus, um zur Ansicht **Geschlossene Aktivitäten** zu wechseln. Der abgeschlossene Termin **Besprechung mit Jackson** wird angezeigt.
+26. Wählen Sie **Speichern und schließen** im Firmendatensatz aus, um den Firmendatensatz zu verlassen. 

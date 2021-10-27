@@ -9,8 +9,6 @@ Modul 1: Mehr über die Grundlagen von Dynamics 365 Marketing erfahren
 
 ## Übungs-Lab 1.7 – Dynamics 365 Marketing Capstone-Lab
 
-**Hinweis:** Marketing-E-Mails können nicht in Internet Explorer erstellt oder bearbeitet werden. Verwenden Sie Microsoft Edge oder Google Chrome für diese Übung.
-
 ## Übungsszenario
 
 Das Unternehmen ABC spezialisiert sich auf die Herstellung, den Vertrieb, die Installation und die Wartung von Sicherheitsausrüstung. Zu den Produkten des Unternehmens gehören Sicherheitskameras für Innen- und Außenbereiche, Feuchtigkeitssensoren, Brandmelder, Überwachungsdienste und mehr. 
@@ -61,7 +59,7 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
   - **Geschätzte Dauer**: 45 Minuten
 
-## Anweisungen
+## Anleitung
 
 ## Übung 1: Marketing-E-Mail erstellen
 
@@ -71,55 +69,55 @@ In diesem Lab werden Sie die folgenden Aufgaben ausführen:
 
 3. Wählen Sie auf der **Befehlsleiste** die Option **Neu** aus, um eine neue Marketing-E-Mail zu erstellen.
 
-4. Wählen Sie in der Liste der **Vorlagen für Marketing-E-Mails** die Option **Newsletter 1 Spalte** aus, und wählen Sie die Schaltfläche **Auswählen** aus.
+4. Wählen Sie in der Liste **E-Mail-Marketingvorlagen** die Option **Newsletter mit einer Spalte** aus, und klicken Sie auf die Schaltfläche **Auswählen**.
 
 5. Warten Sie, bis der neue Datensatz geöffnet wurde, und wählen Sie den Dropdownpfeil neben dem Feld **Statusgrund** im Datensatztitel am oberen Rand aus. 
 
 6. Geben Sie im Feld **Name** den Text **Sicherheit für Ihr Zuhause – Ihre Initialen** ein. 
 
-7. Geben Sie unter **Betreff** den Text „**Schützen Sie Ihre Familie**!“ ein. Möglicherweise müssen Sie zum Anfang der Designseite scrollen, um das Betrefffeld anzuzeigen.
+7. Geben Sie unter **Betreff** den Text „**Schützen Sie Ihre Familie**!“ ein.
 
 8. Suchen Sie im Nachrichtenfenster das kleine Bild **über** dem Text mit der Beschriftung **Kurze Überschrift eingeben**, und wählen Sie es aus. 
 
-9. Fahren Sie im Eigenschaftenbereich über die Schaltfläche **Bildergalerie**, und wählen Sie sie aus. 
+9. Zeigen sie mit der Maus auf die Schaltfläche **Bildergalerie**, und wählen Sie sie aus. 
 
-10. Wählen Sie das Bild **contosologo.png** aus, und wählen Sie die Schaltfläche **Auswählen** aus, um es in Ihre E-Mail einzufügen. 
+10. Wählen Sie das Bild **Security2** aus, und klicken Sie auf die Schaltfläche **Auswählen**, um es in Ihre E-Mail einzufügen. 
 
 11. Verwenden Sie die Größenziehpunkte auf dem Bild, um das Bild auf die gewünschte Größe anzupassen. 
 
-12. Wählen Sie das Feld **Kurze Überschrift eingeben** aus. Ändern Sie den Text zu **Fühlen Sie sich rund um die Uhr sicher**.
+12. Klicken Sie auf das Feld **Kurze Überschrift eingeben**, um es auszuwählen. Ändern Sie den Text zu **Fühlen Sie sich rund um die Uhr sicher**.
 
-13. Wählen Sie den Abschnitt unter dem Text aus, den Sie soeben bearbeitet haben. 
+13. Klicken Sie in den Abschnitt unter dem Text, den Sie soeben angepasst haben. 
 
 14. Ersetzen Sie den Text durch den folgenden Text: Wissen Sie stets, was in und um Ihr Zuhause herum vor sich geht? Sie und Ihre Familie haben es verdient, sich sicher und geschützt zu fühlen, egal ob Sie zuhause oder unterwegs sind. Mit dem richtigen Sicherheitssystem können Sie sich nicht nur sicher fühlen, sondern möglicherweise auch Ihre Versicherungsprämie reduzieren. 
 
 15. Wählen Sie das **Bild** unter dem Text aus, den Sie soeben bearbeitet haben. 
 
-16. Wählen Sie die Schaltfläche **Bildergalerie** aus. 
+16. Zeigen sie mit der Maus auf die Schaltfläche **Bildergalerie**, und wählen Sie sie aus. 
 
-17. Wählen Sie das Bild **safebox.png** aus, und wählen Sie die Schaltfläche **Auswählen** aus, um es in Ihre E-Mail einzufügen. 
+17. Wählen Sie das Bild **Security1** aus, und klicken Sie auf die Schaltfläche **Auswählen**, um es in Ihre E-Mail einzufügen. 
 
-18. Passen Sie die Bildgröße an. 
+18. Passen Sie die Größe des Bilds an, so dass es einen großen Teil des Nachrichtenfensters ausfüllt. 
 
 19. Wählen Sie das Feld **Überschrift oder Titel** unter dem Bild aus, und ersetzen Sie den Text durch **Wir haben alles, was Sie brauchen**. 
 
-20. Wählen Sie das Textfeld unter der Überschrift aus, die Sie soeben bearbeitet haben. 
+20. Klicken Sie in das Textfeld unter der Überschrift, die Sie soeben angepasst haben. 
 
 21. Ersetzen Sie den Text durch den folgenden Text: **Lassen Sie sich von unseren preisgekrönten Systemen schützen.**
 
-22. Wählen Sie den gesamten Abschnitt unter dem Abschnitt aus, den Sie soeben bearbeitet haben. Drücken Sie auf das **Papierkorbsymbol**, um den Abschnitt zu entfernen. 
+22. Klicken Sie, um den gesamten Abschnitt unter dem Abschnitt auszuwählen, den Sie soeben bearbeitet haben. Drücken Sie auf das **Papierkorbsymbol**, um den Abschnitt zu entfernen. 
 
-23. Wiederholen Sie den Vorgang für die restlichen Abschnitte oder sonstigen Elemente in der Nachricht.
+23. Wiederholen Sie den Vorgang für die restlichen Abschnitte in der Nachricht. 
 
 24. Bevor wir die E-Mail live schalten können, werden wir sie auf Fehler überprüfen. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Auf Fehler prüfen** aus. 
 
 25. Vergewissern Sie sich, dass die E-Mail keine Fehler enthält, und wählen Sie auf der **Befehlsleiste** die Schaltfläche **Live schalten** aus. 
 
-26. Wählen Sie den Dropdownpfeil neben der Schaltfläche **Speichern** in der Befehlsleiste aus, und wählen Sie **Speichern und schließen** aus. 
+26. Klicken Sie auf den Dropdownpfeil neben der Schaltfläche **Speichern** auf der Befehlsleiste, und wählen Sie **Speichern und schließen** aus. 
 
-27. Falls Sie dieselbe E-Mail-Adresse für beide Kontakte verwendet haben, wird der Hinweis **Doppelte Datensätze gefunden** angezeigt. Wählen Sie **Ignorieren und speichern** aus.
+Sie haben jetzt eine Marketing-E-Mail erstellt, die Sie in anderen Bereichen der Marketinganwendung nutzen können. 
 
-## Übung 2: Segment in Dynamics 365 Marketing erstellen
+## Übung 2: Segment in Dynamics 365 Marketing erstellen
 
 ### Aufgabe 1: Beispielkontakte hinzufügen 
 
@@ -187,13 +185,13 @@ Wir erstellen ein Kundensegment, um festzulegen, welche Kunden wir mit bestimmte
 
 8. Beachten Sie, dass die Tabelle „Kontakt“ standardmäßig ausgewählt ist. Ändern Sie daran nichts. 
 
-9. Wählen Sie den Text **Attribut auswählen** aus. 
+9. Klicken Sie auf den inaktiven Text **Attribut auswählen**, um ihn auszuwählen. 
 
 10. Geben Sie das Wort „Ort“ ein, um die Liste zu filtern. Wählen Sie **Adresse 1: Ort** in der Liste aus.
 
 11. Belassen Sie die nächste Dropdownliste auf **Ist gleich**. 
 
-12. Wählen Sie die dritte Dropdownliste aus, die den Text **Text eingeben** enthält, und wählen Sie **Seattle** aus.
+12. Wählen Sie die dritte Dropdownliste aus, die den inaktiven Text **Text eingeben** enthält, und geben Sie **Seattle** ein.
 
 13. Wählen Sie in der Befehlsleiste die Option **Speichern** aus, um Ihr Segment zu speichern.
 
@@ -233,7 +231,7 @@ Nachdem wir das Segment erfolgreich erstellt haben, überprüfen wir, ob das dyn
 
 6. Öffnen Sie das zuvor erstellte Segment **Kunden in Seattle – Ihre Initialen**. 
 
-7. Wählen Sie die Registerkarte **Mitglieder** aus. Dort sollte jetzt **Rick Jones – Ihre Initialen** angezeigt werden. Möglicherweise müssen Sie die Ansicht aktualisieren.
+7. Wählen Sie die Registerkarte **Mitglieder** aus. Dort sollte jetzt **Rick Jones – Ihre Initialen** angezeigt werden. 
 
 **WICHTIG:** Da wir in einer gemeinsamen Umgebung arbeiten und alle Benutzer dasselbe System verwenden, werden vermutlich auch andere Kontakt im dynamischen Marketingsegment angezeigt. Dies ist für den Zweck dieses Kurses in Ordnung. 
 
@@ -249,7 +247,7 @@ Nachdem wir den Marketinginhalt erstellt haben, den wir verteilen möchten, und 
 
 4. Vergewissern Sie sich, dass im Bereich **Zielgruppe** unter **Quelltyp** die Option **Segment** ausgewählt ist. 
 
-5. Wählen Sie die Segmentsuche unter dem Dropdownfeld **Einschluss** aus. 
+5. Klicken Sie in die Segmentsuche unter dem Dropdownfeld **Einschluss**. 
 
 6. Geben Sie den Text **Seattle** ein, und wählen Sie das zuvor erstellte Segment **Kunden in Seattle** aus. 
 
@@ -259,11 +257,11 @@ Nachdem wir den Marketinginhalt erstellt haben, den wir verteilen möchten, und 
 
 9. Zeigen Sie mit dem Mauszeiger auf die Option „E-Mail senden“. Wählen Sie das **Pluszeichen** aus, und wählen Sie im nächsten Menü die Option **Falls/dann** aus.
 
-10. Wählen Sie im Bereich **Falls/dann** links auf dem Bildschirm unter „Bedingungen“ das Feld **Quelle auswählen** aus. 
+10. Klicken Sie im Bereich **Falls/dann** auf der linken Seite des Bildschirms unter „Bedingungen“ auf das Feld **Quelle auswählen**. 
 
 11. Wählen Sie das Segment **Sicherheit für Ihr Zuhause – Ihre Initialen** aus. 
 
-12. Wählen Sie das Feld **Bedingung auswählen** aus. Wählen Sie **Es wurde auf einen Link geklickt** aus.
+12. Klicken Sie in das Feld **Bedingung auswählen**. Wählen Sie **Es wurde auf einen Link geklickt** aus.
 
 13. Wählen Sie im Pfad **Ja** das **Pluszeichen** aus. Wählen Sie im nächsten Menü die Option **Lead erstellen** aus.
 
