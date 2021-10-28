@@ -13,27 +13,27 @@ Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 
   - **Geschätzte Dauer**: 10 Minuten
 
-## Anweisungen
+## Anleitung
 
 1. Öffnen Sie die **Dynamics 365 Customer Service Hub**-Anwendung, falls noch nicht geschehen. 
 
 2. Wählen Sie **Anfragen** in der Navigation auf der linken Seite des Bildschirms aus. 
 
-3. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neuer Fall** aus, um einen neuen Anfragedatensatz zu erstellen.
+3. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Neu** aus, um einen neuen Anfragedatensatz zu erstellen.
 
 4. Vervollständigen Sie den Anfragedatensatz wie folgt:
 
 	- **Anfragetitel:** ‎Artikel beschädigt geliefert – Ihre Initialen
 
-	- **Kunde:** Alpine Ski House
+	- **Kunde:** Alpine Ski House (Beispiel)
 
 	- **Ursprung:** Telefon
 
 5. Wählen Sie die Schaltfläche **Speichern** aus, um den Datensatz zu speichern, und lassen Sie ihn geöffnet. 
 
-6. Wählen Sie unter **Telefon-zu-Anfrage-Prozess** die Phase **Identifizieren** aus, und geben Sie im Feld **Kontakt suchen** den Wert **Alfonso Albritton** ein. 
+6. Wählen Sie unter **Telefon-zu-Anfrage-Prozess** die Phase **Identifizieren** aus, und legen Sie im Feld **Kontakt suchen** den Wert **Dwayne Elijah** fest. 
 
-7. Wählen Sie das **X** im Fenster für die Phase **Identifizieren** aus, um das Fenster zu schließen und Ihre Arbeit fortsetzen zu können. 
+7. Klicken Sie auf das **X** im Flyout-Fenster für die Phase **Identifizieren**, um das Fenster zu entfernen, damit Sie Ihre Arbeit fortsetzen können. 
 
 8. Wählen Sie auf der **Datensatzzeitachse** das **Pluszeichensymbol** aus, um eine neue Aktivität zu erstellen. 
 
@@ -41,13 +41,13 @@ Modul 3: Mehr über die Grundlagen von Dynamics 365 Customer Service erfahren
 
 10. Legen Sie im Feld **Betreff** den Wert **Patrick zurückrufen – Ihre Initialen** fest, und lassen Sie die restlichen Felder unverändert. 
 
-11. Wählen Sie **Speichern und schließen** aus. 
+11. Klicken Sie auf die Schaltfläche **Speichern und schließen**. 
 
 12. Wählen Sie unter **Telefon-zu-Anfrage-Prozess** die Phase **Identifizieren** aus.
 
-13. Wählen Sie die Schaltfläche **Nächste Phase** aus, um zur Phase **Recherche** zu gelangen. 
+13. Klicken Sie auf die Schaltfläche **Nächste Phase**, um zur Phase **Recherchieren** zu gelangen. 
 
-14. Wählen Sie das **X** im Fenster für die Phase **Recherche** aus, um das Fenster zu schließen und Ihre Arbeit fortsetzen zu können. 
+14. Klicken Sie auf das **X** im Flyout-Fenster für die Phase **Recherchieren**, um das Fenster zu entfernen, damit Sie Ihre Arbeit fortsetzen können. 
 
 15. Suchen Sie auf der rechten Seite des Anfragebildschirms das Buchsymbol **Wissen**, und wählen Sie es aus (Das Symbol befindet sich direkt unter dem Schraubenschlüsselsymbol).
 

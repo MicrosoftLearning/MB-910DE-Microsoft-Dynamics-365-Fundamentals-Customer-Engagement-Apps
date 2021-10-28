@@ -18,7 +18,7 @@ Während dieser Übung erfassen Sie einen Lead für Suzanne Burke. Sie hat Sie k
 
   - **Geschätzte Dauer**: 15 Minuten
 
-## Anweisungen
+## Anleitung
 
 1. Öffnen Sie die **Dynamics 365 Sales Hub**-Anwendung, falls noch nicht geschehen. 
 
@@ -56,7 +56,7 @@ Während dieser Übung erfassen Sie einen Lead für Suzanne Burke. Sie hat Sie k
 
 	- **Einkaufszeitrahmen**: Dieses Quartal
 
-	- **Geschätztes Budget:** 25000 
+	- **Geschätztes Budget:** 25.000 
 
 	- **Kaufvorgang:** Individuell
 
@@ -77,3 +77,5 @@ Während dieser Übung erfassen Sie einen Lead für Suzanne Burke. Sie hat Sie k
 13. Als Nächstes qualifizieren Sie den Leaddatensatz. Dabei wird ein zugehöriger Verkaufschancendatensatz erstellt und die nächste Stufe des Verkaufsprozesses „Lead zu Verkaufschance“ erreicht. Wählen Sie auf der **Befehlsleiste** die Schaltfläche **Qualifizieren** aus. 
 
 14. Nachdem das System den Lead qualifiziert hat, wird ein neuer Verkaufschancendatensatz erstellt, und der Geschäftsprozess geht in die Phase **Entwickeln** über. Wählen Sie die Phase **Qualifizieren** aus, um den ursprünglichen Leaddatensatz anzuzeigen. 
+
+15. Wählen Sie die Phase **Entwickeln** aus, um zur Verkaufschance zurückzukehren.

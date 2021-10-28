@@ -18,7 +18,7 @@ In dieser Übung erfahren Sie, wie einfach Sie die verschiedenen Dynamics 365-An
 
   - **Geschätzte Dauer**: 15 Minuten
 
-## Anweisungen
+## Anleitung
 
 In dieser Übung machen Sie sich damit vertraut, wie Sie vom Dynamics 365-Startbildschirm aus auf die verschiedenen Dynamics 365 Customer Engagement-Anwendungen zugreifen. 
 
